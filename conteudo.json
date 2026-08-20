@@ -31,7 +31,7 @@
    "mec": "vitrine",
    "selo": "O TREM CHEGOU",
    "conceito": "objetivo1",
-   "enunciado": "Toque em cada <b>vagão</b> e ouça a letra e a figura dela.",
+   "enunciado": "Toque em cada <b>letra</b> e ouça o nome dela e a figura.",
    "dica": "Cada vagão leva uma letra. Toque para ouvir o nome dela.",
    "dados": [
     {
@@ -451,22 +451,6 @@
    ]
   },
   {
-   "id": "f06c",
-   "mec": "pintar-canvas",
-   "selo": "HORA DE PINTAR",
-   "conceito": "objetivo1",
-   "enunciado": "<b>Pinte</b> a letra do jeito que você quiser.",
-   "dica": "Escolha uma cor e toque dentro do desenho para pintar.",
-   "dados": [
-    {
-     "selo": "PINTE A LETRA A",
-     "nome": "a letra A da abelha",
-     "voz": "a letra á, da abelha",
-     "img": "tr_pintar_letra"
-    }
-   ]
-  },
-  {
    "id": "f07",
    "mec": "ordenar",
    "selo": "EM ORDEM",
@@ -605,8 +589,8 @@
    "mec": "vitrine",
    "selo": "O TREM CHEGOU",
    "conceito": "objetivo1",
-   "enunciado": "Toque nos <b>vagões</b> que faltam, de N até Z.",
-   "dica": "Toque em cada vagão para ouvir a letra e a figura.",
+   "enunciado": "Toque nas <b>letras</b> para completar o alfabeto, de N até Z.",
+   "dica": "Toque em cada letra para ouvir o nome dela e a figura.",
    "dados": [
     {
      "img": "tr_navio",
@@ -1203,22 +1187,6 @@
    ]
   },
   {
-   "id": "f18b",
-   "mec": "pintar-canvas",
-   "selo": "HORA DE PINTAR",
-   "conceito": "objetivo3",
-   "enunciado": "<b>Pinte</b> o trenzinho do alfabeto com as suas cores.",
-   "dica": "Escolha uma cor e toque dentro de cada parte do trem.",
-   "dados": [
-    {
-     "selo": "PINTE O TREM",
-     "nome": "o trem do alfabeto",
-     "voz": "o trem do alfabeto",
-     "img": "tr_pintar_trem"
-    }
-   ]
-  },
-  {
    "id": "f19",
    "mec": "letras-escondidas",
    "selo": "A LETRA DO FIM",
@@ -1593,18 +1561,18 @@
    ]
   },
   {
-   "id": "f29b",
+   "id": "f06c",
    "mec": "pintar-canvas",
    "selo": "HORA DE PINTAR",
-   "conceito": "objetivo3",
-   "enunciado": "<b>Pinte</b> o Coru, o maquinista do trem.",
-   "dica": "Escolha as cores e toque dentro do desenho do Coru.",
+   "conceito": "objetivo1",
+   "enunciado": "<b>Pinte</b> a letra do jeito que você quiser.",
+   "dica": "Escolha uma cor e toque dentro do desenho para pintar.",
    "dados": [
     {
-     "selo": "PINTE O CORU",
-     "nome": "o maquinista Coru",
-     "voz": "o maquinista Coru",
-     "img": "tr_pintar_coru"
+     "selo": "PINTE A LETRA A",
+     "nome": "a letra A da abelha",
+     "voz": "a letra á, da abelha",
+     "img": "tr_pintar_letra"
     }
    ]
   },
@@ -1625,11 +1593,27 @@
    }
   },
   {
+   "id": "f18b",
+   "mec": "pintar-canvas",
+   "selo": "HORA DE PINTAR",
+   "conceito": "objetivo3",
+   "enunciado": "<b>Pinte</b> o trenzinho do alfabeto com as suas cores.",
+   "dica": "Escolha uma cor e toque dentro de cada parte do trem.",
+   "dados": [
+    {
+     "selo": "PINTE O TREM",
+     "nome": "o trem do alfabeto",
+     "voz": "o trem do alfabeto",
+     "img": "tr_pintar_trem"
+    }
+   ]
+  },
+  {
    "id": "f31",
    "mec": "vitrine",
    "selo": "A GRANDE ESTAÇÃO",
    "conceito": "objetivo1",
-   "enunciado": "O trem ficou pronto! Toque nos <b>vagões</b> e ouça o que você aprendeu.",
+   "enunciado": "O trem ficou pronto! Toque nas <b>letras</b> e ouça o que você aprendeu.",
    "dica": "Toque em cada vagão e ouça o resumo.",
    "dados": [
     {
@@ -1701,6 +1685,22 @@
      "grupo": "CONSOANTE",
      "info": "J de jacaré.",
      "voz": "Letra J, de jacaré. Você já sabe!"
+    }
+   ]
+  },
+  {
+   "id": "f29b",
+   "mec": "pintar-canvas",
+   "selo": "HORA DE PINTAR",
+   "conceito": "objetivo3",
+   "enunciado": "<b>Pinte</b> o Coru, o maquinista do trem.",
+   "dica": "Escolha as cores e toque dentro do desenho do Coru.",
+   "dados": [
+    {
+     "selo": "PINTE O CORU",
+     "nome": "o maquinista Coru",
+     "voz": "o maquinista Coru",
+     "img": "tr_pintar_coru"
     }
    ]
   }

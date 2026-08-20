@@ -1,0 +1,37 @@
+/* ===== O Trem do Alfabeto — tema da fase de pintar =====
+   Pedido do Marcos (ago/2026): a área de pintar é grande demais e força barra de
+   rolagem (as cores ficam cortadas embaixo). Aqui a fase fica COMPACTA e o
+   quadrado do desenho é BRANCO SÓLIDO (não transparente sobre o vagão do trem),
+   com as cores logo abaixo, sem rolar. */
+
+/* a tela nunca some (fade + reduce-motion) */
+.tela{opacity:1 !important}
+
+/* o cenário do trem fica SUAVE atrás — não compete com o desenho */
+#bg{-webkit-filter:blur(5px) brightness(.9) saturate(.9);
+  filter:blur(5px) brightness(.9) saturate(.9)}
+
+/* cartão da fase OPACO e colado no conteúdo */
+.centro.mec-pintar-canvas, .mec-pintar-canvas .centro{
+  background:#fffdf6;padding:8px 10px 10px;max-width:520px;margin:0 auto}
+
+/* enunciado curto; a dica ("escolha uma cor...") é narrada e mora no botão Dica */
+.mec-pintar-canvas .balao{font-size:15px;padding:6px 12px;margin:0 auto 4px;max-width:380px}
+.mec-pintar-canvas .dica{display:none}
+
+/* ⭐ O QUADRADO: BRANCO SÓLIDO e limitado pela ALTURA da tela p/ não rolar */
+.mec-pintar-canvas .pintawrap{max-width:min(340px,42vh);margin:4px auto;
+  background:#fff;border-radius:14px;box-shadow:0 6px 18px rgba(30,30,60,.25)}
+.mec-pintar-canvas .pintatela{background:#fff !important}
+
+/* cores logo abaixo, generosas */
+.mec-pintar-canvas .paleta{margin:6px auto 2px;max-width:360px}
+.mec-pintar-canvas .tcor{width:42px;height:42px;margin:3px}
+.mec-pintar-canvas .pc_ferr{margin:4px 0}
+.mec-pintar-canvas .acoes{margin-top:6px}
+.mec-pintar-canvas .btn{min-height:46px;padding:10px 22px;font-size:16px}
+
+@media (max-height:620px){
+  .mec-pintar-canvas .pintawrap{max-width:min(300px,38vh)}
+  .mec-pintar-canvas .tcor{width:38px;height:38px;margin:2px}
+}

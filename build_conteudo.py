@@ -52,7 +52,7 @@ def add_pintar(**k):
 
 # f01 — VITRINE: os vagões de A a M (toca, ouve o nome e a palavra)
 add(id="f01", mec="vitrine", selo="O TREM CHEGOU", conceito="objetivo1",
-    enunciado="Toque em cada <b>vagão</b> e ouça a letra e a figura dela.",
+    enunciado="Toque em cada <b>letra</b> e ouça o nome dela e a figura.",
     dica="Cada vagão leva uma letra. Toque para ouvir o nome dela.",
     dados=[{"img":FIG[l], "nome":l, "grupo":"VOGAL" if l in "AEIOU" else "CONSOANTE",
             "info":("%s de %s." % (l, PAL[l].lower())),
@@ -208,8 +208,8 @@ add(id="f09", mec="ligar-pontos", selo="LIGUE OS PONTOS", conceito="objetivo1",
 
 # f10 — VITRINE: os vagões de N a Z
 add(id="f10", mec="vitrine", selo="O TREM CHEGOU", conceito="objetivo1",
-    enunciado="Toque nos <b>vagões</b> que faltam, de N até Z.",
-    dica="Toque em cada vagão para ouvir a letra e a figura.",
+    enunciado="Toque nas <b>letras</b> para completar o alfabeto, de N até Z.",
+    dica="Toque em cada letra para ouvir o nome dela e a figura.",
     dados=[{"img":FIG[l], "nome":l, "grupo":"VOGAL" if l in "AEIOU" else "CONSOANTE",
             "info":("%s de %s." % (l, PAL[l].lower())),
             "voz":("Letra %s. %s de %s." % (l, l, PAL[l].lower()))}
@@ -537,7 +537,7 @@ add(id="f30", mec="quebra-cabeca", selo="QUEBRA-CABEÇA", conceito="objetivo3",
 
 # f31 — VITRINE: a grande estação (fecho + gancho de curiosidade)
 add(id="f31", mec="vitrine", selo="A GRANDE ESTAÇÃO", conceito="objetivo1",
-    enunciado="O trem ficou pronto! Toque nos <b>vagões</b> e ouça o que você aprendeu.",
+    enunciado="O trem ficou pronto! Toque nas <b>letras</b> e ouça o que você aprendeu.",
     dica="Toque em cada vagão e ouça o resumo.",
     dados=[{"img":FIG[l], "nome":l, "grupo":"VOGAL" if l in "AEIOU" else "CONSOANTE",
             "info":("%s de %s." % (l, PAL[l].lower())),
@@ -594,6 +594,12 @@ c["arte"] = {
     "engineer cap and a blue neckerchief, big friendly eyes, soft 3D storybook render, "
     "full body, plain background"),
 }
+_pint  = [f for f in fases if f.get("mec") == "pintar-canvas"]
+_resto = [f for f in fases if f.get("mec") != "pintar-canvas"]
+if len(_pint) >= 3 and len(_resto) >= 2:
+    fases = _resto[:-2] + [_pint[0], _resto[-2], _pint[1], _resto[-1], _pint[2]]
+else:
+    fases = _resto + _pint
 c["fases"] = fases
 
 json.dump(c, io.open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

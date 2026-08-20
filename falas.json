@@ -5,7 +5,7 @@
  },
  {
   "id": "tr_f01_intro",
-  "texto": "Toque em cada vagão e ouça a letra e a figura dela."
+  "texto": "Toque em cada letra e ouça o nome dela e a figura."
  },
  {
   "id": "tr_f01_dica",
@@ -446,26 +446,6 @@
   "texto": "letra pê"
  },
  {
-  "id": "tr_f06c_intro",
-  "texto": "Pinte a letra do jeito que você quiser."
- },
- {
-  "id": "tr_f06c_dica",
-  "texto": "Escolha uma cor e toque dentro do desenho para pintar."
- },
- {
-  "id": "op_1nl0bi7",
-  "texto": "PINTE A LETRA A"
- },
- {
-  "id": "op_1ru5dnl",
-  "texto": "a letra A da abelha"
- },
- {
-  "id": "op_7p8gdp",
-  "texto": "a letra á, da abelha"
- },
- {
   "id": "tr_f07_intro",
   "texto": "Coloque estes vagões na ordem do alfabeto."
  },
@@ -620,11 +600,11 @@
  },
  {
   "id": "tr_f10_intro",
-  "texto": "Toque nos vagões que faltam, de N até Z."
+  "texto": "Toque nas letras para completar o alfabeto, de N até Z."
  },
  {
   "id": "tr_f10_dica",
-  "texto": "Toque em cada vagão para ouvir a letra e a figura."
+  "texto": "Toque em cada letra para ouvir o nome dela e a figura."
  },
  {
   "id": "op_6p4ief",
@@ -1260,22 +1240,6 @@
   "texto": "A ordem é U, depois VA. O pedaço certo está aceso: toque nele."
  },
  {
-  "id": "tr_f18b_intro",
-  "texto": "Pinte o trenzinho do alfabeto com as suas cores."
- },
- {
-  "id": "tr_f18b_dica",
-  "texto": "Escolha uma cor e toque dentro de cada parte do trem."
- },
- {
-  "id": "op_1nb53l8",
-  "texto": "PINTE O TREM"
- },
- {
-  "id": "op_1oc8el9",
-  "texto": "o trem do alfabeto"
- },
- {
   "id": "tr_f19_intro",
   "texto": "Agora falta a última letra. Descubra qual é."
  },
@@ -1611,20 +1575,24 @@
   "texto": "letra u"
  },
  {
-  "id": "tr_f29b_intro",
-  "texto": "Pinte o Coru, o maquinista do trem."
+  "id": "tr_f06c_intro",
+  "texto": "Pinte a letra do jeito que você quiser."
  },
  {
-  "id": "tr_f29b_dica",
-  "texto": "Escolha as cores e toque dentro do desenho do Coru."
+  "id": "tr_f06c_dica",
+  "texto": "Escolha uma cor e toque dentro do desenho para pintar."
  },
  {
-  "id": "op_1nary0d",
-  "texto": "PINTE O CORU"
+  "id": "op_1nl0bi7",
+  "texto": "PINTE A LETRA A"
  },
  {
-  "id": "op_bjem3t",
-  "texto": "o maquinista Coru"
+  "id": "op_1ru5dnl",
+  "texto": "a letra A da abelha"
+ },
+ {
+  "id": "op_7p8gdp",
+  "texto": "a letra á, da abelha"
  },
  {
   "id": "tr_f30_intro",
@@ -1635,8 +1603,24 @@
   "texto": "Comece pelos cantos e olhe as cores que combinam."
  },
  {
+  "id": "tr_f18b_intro",
+  "texto": "Pinte o trenzinho do alfabeto com as suas cores."
+ },
+ {
+  "id": "tr_f18b_dica",
+  "texto": "Escolha uma cor e toque dentro de cada parte do trem."
+ },
+ {
+  "id": "op_1nb53l8",
+  "texto": "PINTE O TREM"
+ },
+ {
+  "id": "op_1oc8el9",
+  "texto": "o trem do alfabeto"
+ },
+ {
   "id": "tr_f31_intro",
-  "texto": "O trem ficou pronto! Toque nos vagões e ouça o que você aprendeu."
+  "texto": "O trem ficou pronto! Toque nas letras e ouça o que você aprendeu."
  },
  {
   "id": "tr_f31_dica",
@@ -1683,6 +1667,26 @@
   "texto": "Letra J, de jacaré. Você já sabe!"
  },
  {
+  "id": "tr_f29b_intro",
+  "texto": "Pinte o Coru, o maquinista do trem."
+ },
+ {
+  "id": "tr_f29b_dica",
+  "texto": "Escolha as cores e toque dentro do desenho do Coru."
+ },
+ {
+  "id": "op_1nary0d",
+  "texto": "PINTE O CORU"
+ },
+ {
+  "id": "op_bjem3t",
+  "texto": "o maquinista Coru"
+ },
+ {
+  "id": "tr_fim",
+  "texto": "Você arrumou o trem inteiro e formou um montão de palavras! Piiii! Agora olhe à sua volta: quantas palavras você consegue ler nas placas da rua? Amanhã tem mais estação para descobrir!"
+ },
+ {
   "id": "op_1e3fptx",
   "texto": "Diga a palavra da figura e bata uma vez para cada pedaço."
  },
@@ -1709,10 +1713,6 @@
  {
   "id": "op_yqzdtt",
   "texto": "Descubra quem está falando. Cada pista nova conta mais."
- },
- {
-  "id": "tr_fim",
-  "texto": "Você arrumou o trem inteiro e formou um montão de palavras! Piiii! Agora olhe à sua volta: quantas palavras você consegue ler nas placas da rua? Amanhã tem mais estação para descobrir!"
  },
  {
   "id": "op_37a99b",
