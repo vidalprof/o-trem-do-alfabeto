@@ -1146,6 +1146,7 @@
     "TITULO": "CAÇA-PALAVRAS DO TREM",
     "LETRAS": "ABCDEGHILMNOPRSTU",
     "DIFICIL": "",
+    "FACIL": true,
     "CORP": [
      "p1",
      "p2",
