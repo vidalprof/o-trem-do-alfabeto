@@ -543,8 +543,8 @@
    "mec": "bater-silabas",
    "selo": "BATA AS SÍLABAS",
    "conceito": "objetivo2",
-   "enunciado": "Diga a palavra devagar e <b>bata</b> uma vez para cada pedaço.",
-   "dica": "Ponha a mão no queixo: ele desce a cada pedaço da palavra.",
+   "enunciado": "<b>Bata 1 vez</b> para cada sílaba e depois toque em <b>Pronto</b>.",
+   "dica": "Ponha a mão no queixo: ele desce a cada sílaba da palavra.",
    "dados": [
     {
      "pal": "BOLA",
@@ -589,6 +589,111 @@
      ]
     }
    ]
+  },
+  {
+   "id": "f12b",
+   "mec": "escolher",
+   "selo": "COMEÇA COM...",
+   "conceito": "objetivo1",
+   "enunciado": "Ache a <b>figura</b> que começa com a letra.",
+   "dica": "Diga o nome de cada figura e escute o primeiro som.",
+   "dados": [
+    {
+     "p": "Qual figura começa com a letra <b>M</b>?",
+     "c": {
+      "t": "MAÇÃ",
+      "img": "tr_maca",
+      "voz": "maçã"
+     },
+     "e": [
+      {
+       "t": "GATO",
+       "img": "tr_gato",
+       "voz": "gato"
+      },
+      {
+       "t": "UVA",
+       "img": "tr_uva",
+       "voz": "uva"
+      },
+      {
+       "t": "BOLA",
+       "img": "tr_bola",
+       "voz": "bola"
+      }
+     ],
+     "d": [
+      "Diga o nome de cada figura e escute como ela COMEÇA.",
+      "M faz o som /m/, como no começo de <b>maçã</b>.",
+      "É a MAÇÃ. Ela está acesa: toque nela para seguir."
+     ]
+    },
+    {
+     "p": "Qual figura começa com a letra <b>V</b>?",
+     "c": {
+      "t": "VACA",
+      "img": "tr_vaca",
+      "voz": "vaca"
+     },
+     "e": [
+      {
+       "t": "SAPO",
+       "img": "tr_sapo",
+       "voz": "sapo"
+      },
+      {
+       "t": "DADO",
+       "img": "tr_dado",
+       "voz": "dado"
+      },
+      {
+       "t": "OVO",
+       "img": "tr_ovo",
+       "voz": "ovo"
+      }
+     ],
+     "d": [
+      "Fale cada nome e ouça o comecinho.",
+      "V faz o som /v/, como em <b>vaca</b>.",
+      "É a VACA. Ela está acesa: toque nela para seguir."
+     ]
+    },
+    {
+     "p": "Qual figura começa com a letra <b>L</b>?",
+     "c": {
+      "t": "LEÃO",
+      "img": "tr_leao",
+      "voz": "leão"
+     },
+     "e": [
+      {
+       "t": "RATO",
+       "img": "tr_rato",
+       "voz": "rato"
+      },
+      {
+       "t": "MAÇÃ",
+       "img": "tr_maca",
+       "voz": "maçã"
+      },
+      {
+       "t": "PATO",
+       "img": "tr_pato",
+       "voz": "pato"
+      }
+     ],
+     "d": [
+      "Diga cada nome devagar e ouça o começo.",
+      "L faz o som /l/, como em <b>leão</b>.",
+      "É o LEÃO. Ele está aceso: toque nele para seguir."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "TITULO": "A LETRA DO COMEÇO",
+    "SOIMG": true,
+    "FECHO": "Você acha a figura pela letra do começo!"
+   }
   },
   {
    "id": "f13",
@@ -848,8 +953,8 @@
    "mec": "bater-silabas",
    "selo": "BATA AS SÍLABAS",
    "conceito": "objetivo2",
-   "enunciado": "Agora palavras <b>maiores</b>: bata uma vez para cada pedaço.",
-   "dica": "Diga bem devagar e conte quantos pulinhos a boca dá.",
+   "enunciado": "Palavras <b>maiores</b>: bata 1 vez para cada sílaba e toque em <b>Pronto</b>.",
+   "dica": "Diga bem devagar e conte quantas sílabas a boca fala.",
    "dados": [
     {
      "pal": "NAVIO",
@@ -1039,6 +1144,46 @@
    ]
   },
   {
+   "id": "f20c",
+   "mec": "letras-escondidas",
+   "selo": "A LETRA QUE FALTA",
+   "conceito": "objetivo2",
+   "enunciado": "Falta a <b>primeira letra</b>. Descubra qual é.",
+   "dica": "Diga a palavra da figura e escute como ela começa.",
+   "dados": [
+    {
+     "pal": "GATO",
+     "esc": "_ATO",
+     "extra": [
+      "P",
+      "R"
+     ],
+     "img": "tr_gato",
+     "voz": "gato",
+     "d": [
+      "Olhe a figura e diga: <b>gato</b>. Que letra vem antes de ATO?",
+      "É o som /g/: <b>g</b>ato.",
+      "É o <b>G</b>: G de GATO. Ele está aceso — toque nele para seguir."
+     ]
+    },
+    {
+     "pal": "VACA",
+     "esc": "_ACA",
+     "extra": [
+      "F",
+      "L"
+     ],
+     "img": "tr_vaca",
+     "voz": "vaca",
+     "d": [
+      "Diga o nome da figura: <b>vaca</b>. Qual é a primeira letra?",
+      "É o som /v/: <b>v</b>aca.",
+      "É o <b>V</b>: V de VACA. Ele está aceso — toque nele para seguir."
+     ]
+    }
+   ]
+  },
+  {
    "id": "f21",
    "mec": "juntar-silabas",
    "selo": "MONTE A PALAVRA",
@@ -1103,6 +1248,42 @@
    ]
   },
   {
+   "id": "f21b",
+   "mec": "quem-sou-eu",
+   "selo": "QUEM SOU EU?",
+   "conceito": "objetivo2",
+   "enunciado": "Ouça as pistas e descubra <b>qual palavra</b> sou eu.",
+   "dica": "Cada pista conta uma parte. Junte todas antes de responder.",
+   "dados": [
+    {
+     "resp": "PATO",
+     "pistas": [
+      "Eu começo com a sílaba <b>PA</b>.",
+      "Eu tenho <b>dois</b> pedaços: pa... to.",
+      "Eu faço <b>quá-quá</b> e nado na lagoa."
+     ],
+     "outros": [
+      "GATO",
+      "BOLA",
+      "SAPO"
+     ]
+    },
+    {
+     "resp": "VACA",
+     "pistas": [
+      "Eu começo com a sílaba <b>VA</b>.",
+      "Eu termino com o som <b>ca</b>.",
+      "Eu faço <b>muuu</b> e dou leite."
+     ],
+     "outros": [
+      "MAÇÃ",
+      "RATO",
+      "DADO"
+     ]
+    }
+   ]
+  },
+  {
    "id": "f22",
    "mec": "digitar",
    "selo": "ESCREVA A PALAVRA",
@@ -1154,6 +1335,48 @@
      "p4"
     ]
    }
+  },
+  {
+   "id": "f24b",
+   "mec": "memoria",
+   "selo": "MEMÓRIA",
+   "conceito": "objetivo3",
+   "enunciado": "Ache a <b>letra</b> e a <b>figura</b> que combinam.",
+   "dica": "Vire duas cartas: a letra e a figura que começa com ela.",
+   "dados": [
+    {
+     "k": "m",
+     "pal": "M",
+     "voz": "letra ême",
+     "sen": "MAÇÃ",
+     "imgsen": "tr_maca",
+     "vozsen": "maçã"
+    },
+    {
+     "k": "n",
+     "pal": "N",
+     "voz": "letra ene",
+     "sen": "NAVIO",
+     "imgsen": "tr_navio",
+     "vozsen": "navio"
+    },
+    {
+     "k": "r",
+     "pal": "R",
+     "voz": "letra érre",
+     "sen": "RATO",
+     "imgsen": "tr_rato",
+     "vozsen": "rato"
+    },
+    {
+     "k": "z",
+     "pal": "Z",
+     "voz": "letra zê",
+     "sen": "ZEBRA",
+     "imgsen": "tr_zebra",
+     "vozsen": "zebra"
+    }
+   ]
   },
   {
    "id": "f25",
@@ -1278,6 +1501,32 @@
     "FEITOS": [],
     "ENUN": "Ligue cada palavra à sua letra inicial.",
     "FECHO": "Você ligou todas as palavras à letra do começo!"
+   }
+  },
+  {
+   "id": "f28b",
+   "mec": "digitar",
+   "selo": "ESCREVA A PALAVRA",
+   "conceito": "objetivo3",
+   "enunciado": "Olhe a figura e <b>escreva</b> o nome dela, letra por letra.",
+   "dica": "Diga a palavra devagar e ache cada letra no teclado.",
+   "dados": [
+    {
+     "img": "tr_gato",
+     "palavra": "GATO",
+     "pista": "Bichinho que faz miau e gosta de dormir.",
+     "dic": "Diga devagar: <b>GA-TO</b>."
+    },
+    {
+     "img": "tr_sapo",
+     "palavra": "SAPO",
+     "pista": "Verdinho, pula e vive perto da água.",
+     "dic": "Diga devagar: <b>SA-PO</b>."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Escreva o nome da figura, letra por letra.",
+    "FECHO": "Você escreveu mais palavras!"
    }
   },
   {
