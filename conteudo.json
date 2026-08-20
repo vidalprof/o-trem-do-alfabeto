@@ -1322,6 +1322,22 @@
    ]
   },
   {
+   "id": "f06c",
+   "mec": "pintar-canvas",
+   "selo": "HORA DE PINTAR",
+   "conceito": "objetivo1",
+   "enunciado": "<b>Pinte</b> a letra do jeito que você quiser.",
+   "dica": "Escolha uma cor e toque dentro do desenho para pintar.",
+   "dados": [
+    {
+     "selo": "PINTE A LETRA A",
+     "nome": "a letra A da abelha",
+     "voz": "a letra á, da abelha",
+     "img": "tr_pintar_letra"
+    }
+   ]
+  },
+  {
    "id": "f30",
    "mec": "quebra-cabeca",
    "selo": "QUEBRA-CABEÇA",
@@ -1336,6 +1352,22 @@
     "h": 360,
     "fundo": false
    }
+  },
+  {
+   "id": "f18b",
+   "mec": "pintar-canvas",
+   "selo": "HORA DE PINTAR",
+   "conceito": "objetivo3",
+   "enunciado": "<b>Pinte</b> o trenzinho do alfabeto com as suas cores.",
+   "dica": "Escolha uma cor e toque dentro de cada parte do trem.",
+   "dados": [
+    {
+     "selo": "PINTE O TREM",
+     "nome": "o trem do alfabeto",
+     "voz": "o trem do alfabeto",
+     "img": "tr_pintar_trem"
+    }
+   ]
   },
   {
    "id": "f31",
@@ -1418,34 +1450,18 @@
    ]
   },
   {
-   "id": "f06c",
-   "mec": "pintar-canvas",
-   "selo": "HORA DE PINTAR",
-   "conceito": "objetivo1",
-   "enunciado": "<b>Pinte</b> a letra do jeito que você quiser.",
-   "dica": "Escolha uma cor e toque dentro do desenho para pintar.",
-   "dados": [
-    {
-     "selo": "PINTE A LETRA A",
-     "nome": "a letra A da abelha",
-     "voz": "a letra á, da abelha",
-     "img": "tr_pintar_letra"
-    }
-   ]
-  },
-  {
-   "id": "f18b",
+   "id": "f29b",
    "mec": "pintar-canvas",
    "selo": "HORA DE PINTAR",
    "conceito": "objetivo3",
-   "enunciado": "<b>Pinte</b> o trenzinho do alfabeto com as suas cores.",
-   "dica": "Escolha uma cor e toque dentro de cada parte do trem.",
+   "enunciado": "<b>Pinte</b> o Coru, o maquinista do trem.",
+   "dica": "Escolha as cores e toque dentro do desenho do Coru.",
    "dados": [
     {
-     "selo": "PINTE O TREM",
-     "nome": "o trem do alfabeto",
-     "voz": "o trem do alfabeto",
-     "img": "tr_pintar_trem"
+     "selo": "PINTE O CORU",
+     "nome": "o maquinista Coru",
+     "voz": "o maquinista Coru",
+     "img": "tr_pintar_coru"
     }
    ]
   }
