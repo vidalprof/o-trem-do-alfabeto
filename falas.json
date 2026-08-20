@@ -13,161 +13,159 @@
  },
  {
   "id": "op_3t3a",
-  "texto": "A"
+  "texto": "Á"
  },
  {
   "id": "op_1f8r0ca",
   "texto": "A de abelha."
  },
  {
-  "id": "op_hqzych",
-  "texto": "Letra A. A de abelha."
+  "id": "op_pwmug1",
+  "texto": "Letra Á. Á de abelha."
  },
  {
   "id": "op_3t3b",
-  "texto": "B"
+  "texto": "Bê"
  },
  {
   "id": "op_kyj6ik",
   "texto": "B de bola."
  },
  {
-  "id": "op_1u66d2c",
-  "texto": "Letra B. B de bola."
+  "id": "op_1in9v3s",
+  "texto": "Letra Bê. Bê de bola."
  },
  {
   "id": "op_3t3c",
-  "texto": "C"
+  "texto": "Cê"
  },
  {
   "id": "op_m3b74n",
   "texto": "C de casa."
  },
  {
-  "id": "op_ianqrk",
-  "texto": "Letra C. C de casa."
+  "id": "op_1txmz78",
+  "texto": "Letra Cê. Cê de casa."
  },
  {
   "id": "op_3t3d",
-  "texto": "D"
+  "texto": "Dê"
  },
  {
   "id": "op_n8dhtk",
   "texto": "D de dado."
  },
  {
-  "id": "op_15gjgiq",
-  "texto": "Letra D. D de dado."
+  "id": "op_676bee",
+  "texto": "Letra Dê. Dê de dado."
  },
  {
   "id": "op_3t3e",
-  "texto": "E"
+  "texto": "É"
  },
  {
   "id": "op_12mgtt1",
   "texto": "E de elefante."
  },
  {
-  "id": "op_of0m34",
-  "texto": "Letra E. E de elefante."
+  "id": "op_17oup20",
+  "texto": "Letra É. É de elefante."
  },
  {
   "id": "op_3t3f",
-  "texto": "F"
+  "texto": "Éfe"
  },
  {
   "id": "op_piri1h",
   "texto": "F de flor."
  },
  {
-  "id": "op_grg8w1",
-  "texto": "Letra F. F de flor."
+  "id": "op_19dj80t",
+  "texto": "Letra Éfe. Éfe de flor."
  },
  {
   "id": "op_3t3g",
-  "texto": "G"
+  "texto": "Gê"
  },
  {
   "id": "op_qnls32",
   "texto": "G de gato."
  },
  {
-  "id": "op_13x3xzv",
-  "texto": "Letra G. G de gato."
+  "id": "op_1435w3z",
+  "texto": "Letra Gê. Gê de gato."
  },
  {
   "id": "op_3t3h",
-  "texto": "H"
+  "texto": "Agá"
  },
  {
   "id": "op_1ohud54",
   "texto": "H de hipopótamo."
  },
  {
-  "id": "op_7z6kxi",
-  "texto": "Letra H. H de hipopótamo."
+  "id": "op_119yw0o",
+  "texto": "Letra Agá. Agá de hipopótamo."
  },
  {
   "id": "op_3t3i",
-  "texto": "I",
-  "lang": "en"
+  "texto": "Í"
  },
  {
   "id": "op_1e4pw5z",
   "texto": "I de igreja."
  },
  {
-  "id": "op_nwzrd2",
-  "texto": "Letra I. I de igreja.",
-  "lang": "en"
+  "id": "op_1iiwiby",
+  "texto": "Letra Í. Í de igreja."
  },
  {
   "id": "op_3t3j",
-  "texto": "J"
+  "texto": "Jóta"
  },
  {
   "id": "op_9uzx0w",
   "texto": "J de jacaré."
  },
  {
-  "id": "op_sy7xls",
-  "texto": "Letra J. J de jacaré."
+  "id": "op_1wvwtgw",
+  "texto": "Letra Jóta. Jóta de jacaré."
  },
  {
   "id": "op_3t3k",
-  "texto": "K"
+  "texto": "Cá"
  },
  {
   "id": "op_v82k1n",
   "texto": "K de kiwi."
  },
  {
-  "id": "op_1pjqc8c",
-  "texto": "Letra K. K de kiwi."
+  "id": "op_1e3teda",
+  "texto": "Letra Cá. Cá de kiwi."
  },
  {
   "id": "op_3t3l",
-  "texto": "L"
+  "texto": "Éle"
  },
  {
   "id": "op_wd4myz",
   "texto": "L de leão."
  },
  {
-  "id": "op_dohs8t",
-  "texto": "Letra L. L de leão."
+  "id": "op_3pkujd",
+  "texto": "Letra Éle. Éle de leão."
  },
  {
   "id": "op_3t3m",
-  "texto": "M"
+  "texto": "Ême"
  },
  {
   "id": "op_xi4db5",
   "texto": "M de maçã."
  },
  {
-  "id": "op_10uaxn8",
-  "texto": "Letra M. M de maçã."
+  "id": "op_reyfpu",
+  "texto": "Letra Ême. Ême de maçã."
  },
  {
   "id": "tr_f02_intro",
@@ -227,7 +225,7 @@
  },
  {
   "id": "op_1uy64ki",
-  "texto": "ABELHA"
+  "texto": "abelha"
  },
  {
   "id": "op_1bqabtg",
@@ -247,7 +245,7 @@
  },
  {
   "id": "op_3t3o",
-  "texto": "O"
+  "texto": "Ó"
  },
  {
   "id": "op_3t7c",
@@ -287,11 +285,11 @@
  },
  {
   "id": "op_yki1zk",
-  "texto": "GATO"
+  "texto": "gato"
  },
  {
   "id": "op_ykramw",
-  "texto": "SAPO"
+  "texto": "sapo"
  },
  {
   "id": "op_377k1d",
@@ -315,11 +313,11 @@
  },
  {
   "id": "op_ykozjt",
-  "texto": "PATO"
+  "texto": "pato"
  },
  {
   "id": "op_ykeiw3",
-  "texto": "BOLA"
+  "texto": "bola"
  },
  {
   "id": "op_1k7e9il",
@@ -339,15 +337,15 @@
  },
  {
   "id": "op_ykfqe5",
-  "texto": "DADO"
+  "texto": "dado"
  },
  {
   "id": "op_yktlhc",
-  "texto": "VACA"
+  "texto": "vaca"
  },
  {
   "id": "op_ykqj0b",
-  "texto": "RATO"
+  "texto": "rato"
  },
  {
   "id": "op_wt9eb3",
@@ -431,7 +429,7 @@
  },
  {
   "id": "op_ykez19",
-  "texto": "CASA"
+  "texto": "casa"
  },
  {
   "id": "op_vgdhgw",
@@ -439,7 +437,7 @@
  },
  {
   "id": "op_3t3p",
-  "texto": "P"
+  "texto": "Pê"
  },
  {
   "id": "op_17ks5o7",
@@ -475,8 +473,7 @@
  },
  {
   "id": "op_1wnmmpj",
-  "texto": "Ficou em ordem: F, G, H, I, J!",
-  "lang": "en"
+  "texto": "Ficou em ordem: F, G, H, I, J!"
  },
  {
   "id": "tr_f08_intro",
@@ -492,7 +489,7 @@
  },
  {
   "id": "op_3t3s",
-  "texto": "S"
+  "texto": "Ésse"
  },
  {
   "id": "op_1ik8kvj",
@@ -512,11 +509,11 @@
  },
  {
   "id": "op_3t3n",
-  "texto": "N"
+  "texto": "Ene"
  },
  {
   "id": "op_3t3v",
-  "texto": "V"
+  "texto": "Vê"
  },
  {
   "id": "op_2kue1g",
@@ -536,11 +533,11 @@
  },
  {
   "id": "op_3t3z",
-  "texto": "Z"
+  "texto": "Zê"
  },
  {
   "id": "op_3t3r",
-  "texto": "R"
+  "texto": "Érre"
  },
  {
   "id": "op_8kw2tr",
@@ -611,128 +608,128 @@
   "texto": "N de navio."
  },
  {
-  "id": "op_1q9vct7",
-  "texto": "Letra N. N de navio."
+  "id": "op_158rw8f",
+  "texto": "Letra Ene. Ene de navio."
  },
  {
   "id": "op_1xyo9fj",
   "texto": "O de ovo."
  },
  {
-  "id": "op_6tptw4",
-  "texto": "Letra O. O de ovo."
+  "id": "op_sdcboc",
+  "texto": "Letra Ó. Ó de ovo."
  },
  {
   "id": "op_10x9ijk",
   "texto": "P de pato."
  },
  {
-  "id": "op_zasa3a",
-  "texto": "Letra P. P de pato."
+  "id": "op_1ypzfxm",
+  "texto": "Letra Pê. Pê de pato."
  },
  {
   "id": "op_3t3q",
-  "texto": "Q"
+  "texto": "Quê"
  },
  {
   "id": "op_1ic9lmi",
   "texto": "Q de queijo."
  },
  {
-  "id": "op_zeke0h",
-  "texto": "Letra Q. Q de queijo."
+  "id": "op_1epiki7",
+  "texto": "Letra Quê. Quê de queijo."
  },
  {
   "id": "op_137esf8",
   "texto": "R de rato."
  },
  {
-  "id": "op_algc4c",
-  "texto": "Letra R. R de rato."
+  "id": "op_119l4nw",
+  "texto": "Letra Érre. Érre de rato."
  },
  {
   "id": "op_14chc02",
   "texto": "S de sapo."
  },
  {
-  "id": "op_xrcarf",
-  "texto": "Letra S. S de sapo."
+  "id": "op_1gm6599",
+  "texto": "Letra Ésse. Ésse de sapo."
  },
  {
   "id": "op_3t3t",
-  "texto": "T"
+  "texto": "Tê"
  },
  {
   "id": "op_15hwt1k",
   "texto": "T de trem."
  },
  {
-  "id": "op_1kxl6v6",
-  "texto": "Letra T. T de trem."
+  "id": "op_18vv2dy",
+  "texto": "Letra Tê. Tê de trem."
  },
  {
   "id": "op_3t3u",
-  "texto": "U"
+  "texto": "Ú"
  },
  {
   "id": "op_1esqwcd",
   "texto": "U de uva."
  },
  {
-  "id": "op_1x5ilp4",
-  "texto": "Letra U. U de uva."
+  "id": "op_1tkj3gi",
+  "texto": "Letra Ú. Ú de uva."
  },
  {
   "id": "op_17roxjh",
   "texto": "V de vaca."
  },
  {
-  "id": "op_w7w3ih",
-  "texto": "Letra V. V de vaca."
+  "id": "op_1vgtdul",
+  "texto": "Letra Vê. Vê de vaca."
  },
  {
   "id": "op_3t3w",
-  "texto": "W"
+  "texto": "Dáblio"
  },
  {
   "id": "op_11yqf0o",
   "texto": "W de waffle."
  },
  {
-  "id": "op_6q9vt1",
-  "texto": "Letra W. W de waffle."
+  "id": "op_smm1cd",
+  "texto": "Letra Dáblio. Dáblio de waffle."
  },
  {
   "id": "op_3t3x",
-  "texto": "X"
+  "texto": "Xis"
  },
  {
   "id": "op_le6csw",
   "texto": "X de xícara."
  },
  {
-  "id": "op_zgnyz2",
-  "texto": "Letra X. X de xícara."
+  "id": "op_xcits6",
+  "texto": "Letra Xis. Xis de xícara."
  },
  {
   "id": "op_3t3y",
-  "texto": "Y"
+  "texto": "Ípsilon"
  },
  {
   "id": "op_1b785et",
   "texto": "Y de yoyo."
  },
  {
-  "id": "op_uorilg",
-  "texto": "Letra Y. Y de yoyo."
+  "id": "op_10odgye",
+  "texto": "Letra Ípsilon. Ípsilon de yoyo."
  },
  {
   "id": "op_wduzl6",
   "texto": "Z de zebra."
  },
  {
-  "id": "op_148pt6",
-  "texto": "Letra Z. Z de zebra."
+  "id": "op_nyx266",
+  "texto": "Letra Zê. Zê de zebra."
  },
  {
   "id": "tr_f11_intro",
@@ -752,7 +749,7 @@
  },
  {
   "id": "op_ykm2tk",
-  "texto": "LEÃO"
+  "texto": "leão"
  },
  {
   "id": "op_1fdghox",
@@ -776,7 +773,7 @@
  },
  {
   "id": "op_yksgd9",
-  "texto": "TREM"
+  "texto": "trem"
  },
  {
   "id": "op_1sbbw9q",
@@ -1118,7 +1115,7 @@
  },
  {
   "id": "op_4fox1e",
-  "texto": "NAVIO"
+  "texto": "navio"
  },
  {
   "id": "op_3hoes",
@@ -1146,7 +1143,7 @@
  },
  {
   "id": "op_1q04r3",
-  "texto": "JACARÉ"
+  "texto": "jacaré"
  },
  {
   "id": "op_3hob4",
@@ -1447,15 +1444,15 @@
  },
  {
   "id": "op_ykraqa",
-  "texto": "SAPÉ"
+  "texto": "sapé"
  },
  {
   "id": "op_ykraa2",
-  "texto": "SABO"
+  "texto": "sabo"
  },
  {
   "id": "op_ykrme0",
-  "texto": "SOPA"
+  "texto": "sopa"
  },
  {
   "id": "op_xcg5zw",
@@ -1528,7 +1525,7 @@
  },
  {
   "id": "op_4o8k49",
-  "texto": "ZEBRA"
+  "texto": "zebra"
  },
  {
   "id": "op_vgdhdj",
@@ -1627,6 +1624,171 @@
   "texto": "Toque em cada vagão e ouça o resumo."
  },
  {
+  "id": "op_r58eyf",
+  "texto": "Letra Á, de abelha. Você já sabe!"
+ },
+ {
+  "id": "op_iokzxf",
+  "texto": "Letra Bê, de bola. Você já sabe!"
+ },
+ {
+  "id": "op_9gbgji",
+  "texto": "Letra Cê, de casa. Você já sabe!"
+ },
+ {
+  "id": "op_51s7j3",
+  "texto": "Letra Dê, de dado. Você já sabe!"
+ },
+ {
+  "id": "op_v8g9gm",
+  "texto": "Letra É, de elefante. Você já sabe!"
+ },
+ {
+  "id": "op_v9x9a8",
+  "texto": "Letra Éfe, de flor. Você já sabe!"
+ },
+ {
+  "id": "op_1q3auz9",
+  "texto": "Letra Gê, de gato. Você já sabe!"
+ },
+ {
+  "id": "op_1o7o4g6",
+  "texto": "Letra Agá, de hipopótamo. Você já sabe!"
+ },
+ {
+  "id": "op_urfkew",
+  "texto": "Letra Í, de igreja. Você já sabe!"
+ },
+ {
+  "id": "op_e8mwad",
+  "texto": "Letra Jóta, de jacaré. Você já sabe!"
+ },
+ {
+  "id": "tr_f29b_intro",
+  "texto": "Pinte o Coru, o maquinista do trem."
+ },
+ {
+  "id": "tr_f29b_dica",
+  "texto": "Escolha as cores e toque dentro do desenho do Coru."
+ },
+ {
+  "id": "op_1nary0d",
+  "texto": "PINTE O CORU"
+ },
+ {
+  "id": "op_bjem3t",
+  "texto": "o maquinista Coru"
+ },
+ {
+  "id": "tr_fim",
+  "texto": "Você arrumou o trem inteiro e formou um montão de palavras! Piiii! Agora olhe à sua volta: quantas palavras você consegue ler nas placas da rua? Amanhã tem mais estação para descobrir!"
+ },
+ {
+  "id": "op_hqzych",
+  "texto": "Letra A. A de abelha."
+ },
+ {
+  "id": "op_1u66d2c",
+  "texto": "Letra B. B de bola."
+ },
+ {
+  "id": "op_ianqrk",
+  "texto": "Letra C. C de casa."
+ },
+ {
+  "id": "op_15gjgiq",
+  "texto": "Letra D. D de dado."
+ },
+ {
+  "id": "op_of0m34",
+  "texto": "Letra E. E de elefante."
+ },
+ {
+  "id": "op_grg8w1",
+  "texto": "Letra F. F de flor."
+ },
+ {
+  "id": "op_13x3xzv",
+  "texto": "Letra G. G de gato."
+ },
+ {
+  "id": "op_7z6kxi",
+  "texto": "Letra H. H de hipopótamo."
+ },
+ {
+  "id": "op_nwzrd2",
+  "texto": "Letra I. I de igreja.",
+  "lang": "en"
+ },
+ {
+  "id": "op_sy7xls",
+  "texto": "Letra J. J de jacaré."
+ },
+ {
+  "id": "op_1pjqc8c",
+  "texto": "Letra K. K de kiwi."
+ },
+ {
+  "id": "op_dohs8t",
+  "texto": "Letra L. L de leão."
+ },
+ {
+  "id": "op_10uaxn8",
+  "texto": "Letra M. M de maçã."
+ },
+ {
+  "id": "op_1q9vct7",
+  "texto": "Letra N. N de navio."
+ },
+ {
+  "id": "op_6tptw4",
+  "texto": "Letra O. O de ovo."
+ },
+ {
+  "id": "op_zasa3a",
+  "texto": "Letra P. P de pato."
+ },
+ {
+  "id": "op_zeke0h",
+  "texto": "Letra Q. Q de queijo."
+ },
+ {
+  "id": "op_algc4c",
+  "texto": "Letra R. R de rato."
+ },
+ {
+  "id": "op_xrcarf",
+  "texto": "Letra S. S de sapo."
+ },
+ {
+  "id": "op_1kxl6v6",
+  "texto": "Letra T. T de trem."
+ },
+ {
+  "id": "op_1x5ilp4",
+  "texto": "Letra U. U de uva."
+ },
+ {
+  "id": "op_w7w3ih",
+  "texto": "Letra V. V de vaca."
+ },
+ {
+  "id": "op_6q9vt1",
+  "texto": "Letra W. W de waffle."
+ },
+ {
+  "id": "op_zgnyz2",
+  "texto": "Letra X. X de xícara."
+ },
+ {
+  "id": "op_uorilg",
+  "texto": "Letra Y. Y de yoyo."
+ },
+ {
+  "id": "op_148pt6",
+  "texto": "Letra Z. Z de zebra."
+ },
+ {
   "id": "op_19v0oc7",
   "texto": "Letra A, de abelha. Você já sabe!"
  },
@@ -1667,26 +1829,6 @@
   "texto": "Letra J, de jacaré. Você já sabe!"
  },
  {
-  "id": "tr_f29b_intro",
-  "texto": "Pinte o Coru, o maquinista do trem."
- },
- {
-  "id": "tr_f29b_dica",
-  "texto": "Escolha as cores e toque dentro do desenho do Coru."
- },
- {
-  "id": "op_1nary0d",
-  "texto": "PINTE O CORU"
- },
- {
-  "id": "op_bjem3t",
-  "texto": "o maquinista Coru"
- },
- {
-  "id": "tr_fim",
-  "texto": "Você arrumou o trem inteiro e formou um montão de palavras! Piiii! Agora olhe à sua volta: quantas palavras você consegue ler nas placas da rua? Amanhã tem mais estação para descobrir!"
- },
- {
   "id": "op_1e3fptx",
   "texto": "Diga a palavra da figura e bata uma vez para cada pedaço."
  },
@@ -1713,10 +1855,6 @@
  {
   "id": "op_yqzdtt",
   "texto": "Descubra quem está falando. Cada pista nova conta mais."
- },
- {
-  "id": "op_37a99b",
-  "texto": "éle"
  },
  {
   "id": "op_z2sk3v",

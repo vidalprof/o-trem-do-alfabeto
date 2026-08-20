@@ -30,6 +30,18 @@ ALFA = [
 ]
 FIG = {l: img for (l, p, img) in ALFA}      # letra -> figura
 PAL = {l: p   for (l, p, img) in ALFA}      # letra -> palavra
+# ⚠️ LIÇÃO PAGA (Marcos ouviu, ago/2026): o edge-tts lê a VOGAL solta como
+# PALAVRA — "E" vira a conjunção "e" (=i) e "O" vira o artigo "o" (=u). Assim
+# "Letra E. E de elefante." saía "i de elefante" e "Letra O..." saía "u de ovo".
+# O conserto é gravar o NOME FONÉTICO da letra (o que a criança deve OUVIR),
+# mantendo a letra de verdade só no que aparece na tela (info/nome).
+NOME_LETRA = {
+ "A":"Á","B":"Bê","C":"Cê","D":"Dê","E":"É","F":"Éfe","G":"Gê","H":"Agá",
+ "I":"Í","J":"Jóta","K":"Cá","L":"Éle","M":"Ême","N":"Ene","O":"Ó","P":"Pê",
+ "Q":"Quê","R":"Érre","S":"Ésse","T":"Tê","U":"Ú","V":"Vê","W":"Dáblio",
+ "X":"Xis","Y":"Ípsilon","Z":"Zê",
+}
+def nome_letra(l): return NOME_LETRA.get(l, l)
 def img_de(letra): return FIG[letra]
 def pal_de(letra): return PAL[letra]
 
@@ -56,7 +68,7 @@ add(id="f01", mec="vitrine", selo="O TREM CHEGOU", conceito="objetivo1",
     dica="Cada vagão leva uma letra. Toque para ouvir o nome dela.",
     dados=[{"img":FIG[l], "nome":l, "grupo":"VOGAL" if l in "AEIOU" else "CONSOANTE",
             "info":("%s de %s." % (l, PAL[l].lower())),
-            "voz":("Letra %s. %s de %s." % (l, l, PAL[l].lower()))}
+            "voz":("Letra %s. %s de %s." % (nome_letra(l), nome_letra(l), PAL[l].lower()))}
            for l in "ABCDEFGHIJKLM"])
 
 # f02 — ORDENAR: os 5 primeiros vagões na ordem do alfabeto
@@ -212,7 +224,7 @@ add(id="f10", mec="vitrine", selo="O TREM CHEGOU", conceito="objetivo1",
     dica="Toque em cada letra para ouvir o nome dela e a figura.",
     dados=[{"img":FIG[l], "nome":l, "grupo":"VOGAL" if l in "AEIOU" else "CONSOANTE",
             "info":("%s de %s." % (l, PAL[l].lower())),
-            "voz":("Letra %s. %s de %s." % (l, l, PAL[l].lower()))}
+            "voz":("Letra %s. %s de %s." % (nome_letra(l), nome_letra(l), PAL[l].lower()))}
            for l in "NOPQRSTUVWXYZ"])
 
 # f11 — TRAÇAR-LETRA: L e T
@@ -541,7 +553,7 @@ add(id="f31", mec="vitrine", selo="A GRANDE ESTAÇÃO", conceito="objetivo1",
     dica="Toque em cada vagão e ouça o resumo.",
     dados=[{"img":FIG[l], "nome":l, "grupo":"VOGAL" if l in "AEIOU" else "CONSOANTE",
             "info":("%s de %s." % (l, PAL[l].lower())),
-            "voz":("Letra %s, de %s. Você já sabe!" % (l, PAL[l].lower()))}
+            "voz":("Letra %s, de %s. Você já sabe!" % (nome_letra(l), PAL[l].lower()))}
            for l in "ABCDEFGHIJ"])
 
 # ---- header (preenche o esboço) + fases ----
@@ -594,6 +606,11 @@ c["arte"] = {
     "engineer cap and a blue neckerchief, big friendly eyes, soft 3D storybook render, "
     "full body, plain background"),
 }
+# ⭐ (Marcos, ago/2026) as fases de PINTAR (pausa criativa) vão para o FINAL da
+#    atividade — a criança primeiro trabalha o alfabeto/sílabas/palavras e só no
+#    fim relaxa colorindo. Mas o motor não deixa DUAS do mesmo gesto coladas;
+#    então intercalo: as 3 fases de pintar ficam no trecho final, separadas
+#    pelas 2 últimas fases de conteúdo (a ÚLTIMA fase da atividade é pintar).
 _pint  = [f for f in fases if f.get("mec") == "pintar-canvas"]
 _resto = [f for f in fases if f.get("mec") != "pintar-canvas"]
 if len(_pint) >= 3 and len(_resto) >= 2:

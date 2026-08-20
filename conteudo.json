@@ -39,91 +39,91 @@
      "nome": "A",
      "grupo": "VOGAL",
      "info": "A de abelha.",
-     "voz": "Letra A. A de abelha."
+     "voz": "Letra Á. Á de abelha."
     },
     {
      "img": "tr_bola",
      "nome": "B",
      "grupo": "CONSOANTE",
      "info": "B de bola.",
-     "voz": "Letra B. B de bola."
+     "voz": "Letra Bê. Bê de bola."
     },
     {
      "img": "tr_casa",
      "nome": "C",
      "grupo": "CONSOANTE",
      "info": "C de casa.",
-     "voz": "Letra C. C de casa."
+     "voz": "Letra Cê. Cê de casa."
     },
     {
      "img": "tr_dado",
      "nome": "D",
      "grupo": "CONSOANTE",
      "info": "D de dado.",
-     "voz": "Letra D. D de dado."
+     "voz": "Letra Dê. Dê de dado."
     },
     {
      "img": "tr_elefante",
      "nome": "E",
      "grupo": "VOGAL",
      "info": "E de elefante.",
-     "voz": "Letra E. E de elefante."
+     "voz": "Letra É. É de elefante."
     },
     {
      "img": "tr_flor",
      "nome": "F",
      "grupo": "CONSOANTE",
      "info": "F de flor.",
-     "voz": "Letra F. F de flor."
+     "voz": "Letra Éfe. Éfe de flor."
     },
     {
      "img": "tr_gato",
      "nome": "G",
      "grupo": "CONSOANTE",
      "info": "G de gato.",
-     "voz": "Letra G. G de gato."
+     "voz": "Letra Gê. Gê de gato."
     },
     {
      "img": "tr_hipopotamo",
      "nome": "H",
      "grupo": "CONSOANTE",
      "info": "H de hipopótamo.",
-     "voz": "Letra H. H de hipopótamo."
+     "voz": "Letra Agá. Agá de hipopótamo."
     },
     {
      "img": "tr_igreja",
      "nome": "I",
      "grupo": "VOGAL",
      "info": "I de igreja.",
-     "voz": "Letra I. I de igreja."
+     "voz": "Letra Í. Í de igreja."
     },
     {
      "img": "tr_jacare",
      "nome": "J",
      "grupo": "CONSOANTE",
      "info": "J de jacaré.",
-     "voz": "Letra J. J de jacaré."
+     "voz": "Letra Jóta. Jóta de jacaré."
     },
     {
      "img": "tr_kiwi",
      "nome": "K",
      "grupo": "CONSOANTE",
      "info": "K de kiwi.",
-     "voz": "Letra K. K de kiwi."
+     "voz": "Letra Cá. Cá de kiwi."
     },
     {
      "img": "tr_leao",
      "nome": "L",
      "grupo": "CONSOANTE",
      "info": "L de leão.",
-     "voz": "Letra L. L de leão."
+     "voz": "Letra Éle. Éle de leão."
     },
     {
      "img": "tr_maca",
      "nome": "M",
      "grupo": "CONSOANTE",
      "info": "M de maçã.",
-     "voz": "Letra M. M de maçã."
+     "voz": "Letra Ême. Ême de maçã."
     }
    ]
   },
@@ -597,91 +597,91 @@
      "nome": "N",
      "grupo": "CONSOANTE",
      "info": "N de navio.",
-     "voz": "Letra N. N de navio."
+     "voz": "Letra Ene. Ene de navio."
     },
     {
      "img": "tr_ovo",
      "nome": "O",
      "grupo": "VOGAL",
      "info": "O de ovo.",
-     "voz": "Letra O. O de ovo."
+     "voz": "Letra Ó. Ó de ovo."
     },
     {
      "img": "tr_pato",
      "nome": "P",
      "grupo": "CONSOANTE",
      "info": "P de pato.",
-     "voz": "Letra P. P de pato."
+     "voz": "Letra Pê. Pê de pato."
     },
     {
      "img": "tr_queijo",
      "nome": "Q",
      "grupo": "CONSOANTE",
      "info": "Q de queijo.",
-     "voz": "Letra Q. Q de queijo."
+     "voz": "Letra Quê. Quê de queijo."
     },
     {
      "img": "tr_rato",
      "nome": "R",
      "grupo": "CONSOANTE",
      "info": "R de rato.",
-     "voz": "Letra R. R de rato."
+     "voz": "Letra Érre. Érre de rato."
     },
     {
      "img": "tr_sapo",
      "nome": "S",
      "grupo": "CONSOANTE",
      "info": "S de sapo.",
-     "voz": "Letra S. S de sapo."
+     "voz": "Letra Ésse. Ésse de sapo."
     },
     {
      "img": "tr_trem",
      "nome": "T",
      "grupo": "CONSOANTE",
      "info": "T de trem.",
-     "voz": "Letra T. T de trem."
+     "voz": "Letra Tê. Tê de trem."
     },
     {
      "img": "tr_uva",
      "nome": "U",
      "grupo": "VOGAL",
      "info": "U de uva.",
-     "voz": "Letra U. U de uva."
+     "voz": "Letra Ú. Ú de uva."
     },
     {
      "img": "tr_vaca",
      "nome": "V",
      "grupo": "CONSOANTE",
      "info": "V de vaca.",
-     "voz": "Letra V. V de vaca."
+     "voz": "Letra Vê. Vê de vaca."
     },
     {
      "img": "tr_waffle",
      "nome": "W",
      "grupo": "CONSOANTE",
      "info": "W de waffle.",
-     "voz": "Letra W. W de waffle."
+     "voz": "Letra Dáblio. Dáblio de waffle."
     },
     {
      "img": "tr_xicara",
      "nome": "X",
      "grupo": "CONSOANTE",
      "info": "X de xícara.",
-     "voz": "Letra X. X de xícara."
+     "voz": "Letra Xis. Xis de xícara."
     },
     {
      "img": "tr_yoyo",
      "nome": "Y",
      "grupo": "CONSOANTE",
      "info": "Y de yoyo.",
-     "voz": "Letra Y. Y de yoyo."
+     "voz": "Letra Ípsilon. Ípsilon de yoyo."
     },
     {
      "img": "tr_zebra",
      "nome": "Z",
      "grupo": "CONSOANTE",
      "info": "Z de zebra.",
-     "voz": "Letra Z. Z de zebra."
+     "voz": "Letra Zê. Zê de zebra."
     }
    ]
   },
@@ -1621,70 +1621,70 @@
      "nome": "A",
      "grupo": "VOGAL",
      "info": "A de abelha.",
-     "voz": "Letra A, de abelha. Você já sabe!"
+     "voz": "Letra Á, de abelha. Você já sabe!"
     },
     {
      "img": "tr_bola",
      "nome": "B",
      "grupo": "CONSOANTE",
      "info": "B de bola.",
-     "voz": "Letra B, de bola. Você já sabe!"
+     "voz": "Letra Bê, de bola. Você já sabe!"
     },
     {
      "img": "tr_casa",
      "nome": "C",
      "grupo": "CONSOANTE",
      "info": "C de casa.",
-     "voz": "Letra C, de casa. Você já sabe!"
+     "voz": "Letra Cê, de casa. Você já sabe!"
     },
     {
      "img": "tr_dado",
      "nome": "D",
      "grupo": "CONSOANTE",
      "info": "D de dado.",
-     "voz": "Letra D, de dado. Você já sabe!"
+     "voz": "Letra Dê, de dado. Você já sabe!"
     },
     {
      "img": "tr_elefante",
      "nome": "E",
      "grupo": "VOGAL",
      "info": "E de elefante.",
-     "voz": "Letra E, de elefante. Você já sabe!"
+     "voz": "Letra É, de elefante. Você já sabe!"
     },
     {
      "img": "tr_flor",
      "nome": "F",
      "grupo": "CONSOANTE",
      "info": "F de flor.",
-     "voz": "Letra F, de flor. Você já sabe!"
+     "voz": "Letra Éfe, de flor. Você já sabe!"
     },
     {
      "img": "tr_gato",
      "nome": "G",
      "grupo": "CONSOANTE",
      "info": "G de gato.",
-     "voz": "Letra G, de gato. Você já sabe!"
+     "voz": "Letra Gê, de gato. Você já sabe!"
     },
     {
      "img": "tr_hipopotamo",
      "nome": "H",
      "grupo": "CONSOANTE",
      "info": "H de hipopótamo.",
-     "voz": "Letra H, de hipopótamo. Você já sabe!"
+     "voz": "Letra Agá, de hipopótamo. Você já sabe!"
     },
     {
      "img": "tr_igreja",
      "nome": "I",
      "grupo": "VOGAL",
      "info": "I de igreja.",
-     "voz": "Letra I, de igreja. Você já sabe!"
+     "voz": "Letra Í, de igreja. Você já sabe!"
     },
     {
      "img": "tr_jacare",
      "nome": "J",
      "grupo": "CONSOANTE",
      "info": "J de jacaré.",
-     "voz": "Letra J, de jacaré. Você já sabe!"
+     "voz": "Letra Jóta, de jacaré. Você já sabe!"
     }
    ]
   },
