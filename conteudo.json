@@ -589,7 +589,7 @@
    "mec": "vitrine",
    "selo": "O TREM CHEGOU",
    "conceito": "objetivo1",
-   "enunciado": "Toque nas <b>letras</b> para completar o alfabeto, de N até Z.",
+   "enunciado": "Toque em cada <b>letra</b>, de N até Z, e ouça o nome dela.",
    "dica": "Toque em cada letra para ouvir o nome dela e a figura.",
    "dados": [
     {
