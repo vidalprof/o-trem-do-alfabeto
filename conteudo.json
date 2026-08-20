@@ -659,11 +659,11 @@
    "mec": "escolher",
    "selo": "MESMA SÍLABA",
    "conceito": "objetivo2",
-   "enunciado": "Ache a <b>palavra</b> que começa com a sílaba.",
+   "enunciado": "Ache a <b>figura</b> que começa com a sílaba.",
    "dica": "Diga cada palavra e escute o primeiro pedaço dela.",
    "dados": [
     {
-     "p": "Qual palavra começa com a sílaba <b>SA</b>?",
+     "p": "Qual figura começa com a sílaba <b>SA</b>?",
      "c": {
       "t": "SAPO",
       "img": "tr_sapo",
@@ -693,7 +693,7 @@
      ]
     },
     {
-     "p": "Qual palavra começa com a sílaba <b>CA</b>?",
+     "p": "Qual figura começa com a sílaba <b>CA</b>?",
      "c": {
       "t": "CASA",
       "img": "tr_casa",
@@ -726,7 +726,7 @@
    "dadosExtra": {
     "TITULO": "A SÍLABA DO COMEÇO",
     "SOIMG": true,
-    "FECHO": "Você acha palavras pela sílaba do começo!"
+    "FECHO": "Você acha figuras pela sílaba do começo!"
    }
   },
   {
@@ -873,12 +873,12 @@
       "CA",
       "RÉ"
      ],
-     "voz": "ja... ca... ré",
+     "voz": "jacaré",
      "fig": "tr_jacare",
      "d": [
       "Ponha a mão no queixo e diga JA-CA-RÉ.",
       "Conte as vezes que o queixo desce.",
-      "São <b>3</b> pedaços: ja... ca... ré. Toque em Pronto."
+      "São <b>3</b> pedaços. Diga comigo: jacaré. Toque em Pronto."
      ]
     }
    ]
