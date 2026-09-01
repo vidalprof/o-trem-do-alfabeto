@@ -1,0 +1,1774 @@
+[
+ {
+  "id": "tr_abertura",
+  "texto": "Piiii! O Trem do Alfabeto vai partir, mas os vagões se embaralharam e as letras se perderam pelo caminho! Sem elas na ordem certa, o trem não anda e as palavras não se formam. Vem comigo pôr cada letra no seu vagão?"
+ },
+ {
+  "id": "tr_f01_intro",
+  "texto": "Toque em cada letra e ouça o nome dela e a figura."
+ },
+ {
+  "id": "tr_f01_dica",
+  "texto": "Cada vagão leva uma letra. Toque para ouvir o nome dela."
+ },
+ {
+  "id": "op_3t3a",
+  "texto": "Á"
+ },
+ {
+  "id": "op_1f8r0ca",
+  "texto": "A de abelha."
+ },
+ {
+  "id": "op_pwmug1",
+  "texto": "Letra Á. Á de abelha."
+ },
+ {
+  "id": "op_3t3b",
+  "texto": "Bê"
+ },
+ {
+  "id": "op_kyj6ik",
+  "texto": "B de bola."
+ },
+ {
+  "id": "op_1in9v3s",
+  "texto": "Letra Bê. Bê de bola."
+ },
+ {
+  "id": "op_3t3c",
+  "texto": "Cê"
+ },
+ {
+  "id": "op_m3b74n",
+  "texto": "C de casa."
+ },
+ {
+  "id": "op_1txmz78",
+  "texto": "Letra Cê. Cê de casa."
+ },
+ {
+  "id": "op_3t3d",
+  "texto": "Dê"
+ },
+ {
+  "id": "op_n8dhtk",
+  "texto": "D de dado."
+ },
+ {
+  "id": "op_676bee",
+  "texto": "Letra Dê. Dê de dado."
+ },
+ {
+  "id": "op_3t3e",
+  "texto": "É"
+ },
+ {
+  "id": "op_12mgtt1",
+  "texto": "E de élefante."
+ },
+ {
+  "id": "op_17oup20",
+  "texto": "Letra É. É de élefante."
+ },
+ {
+  "id": "op_3t3f",
+  "texto": "Éfe"
+ },
+ {
+  "id": "op_piri1h",
+  "texto": "F de flor."
+ },
+ {
+  "id": "op_19dj80t",
+  "texto": "Letra Éfe. Éfe de flor."
+ },
+ {
+  "id": "op_3t3g",
+  "texto": "Gê"
+ },
+ {
+  "id": "op_qnls32",
+  "texto": "G de gato."
+ },
+ {
+  "id": "op_1435w3z",
+  "texto": "Letra Gê. Gê de gato."
+ },
+ {
+  "id": "op_3t3h",
+  "texto": "Agá"
+ },
+ {
+  "id": "op_1ohud54",
+  "texto": "H de hipopótamo."
+ },
+ {
+  "id": "op_119yw0o",
+  "texto": "Letra Agá. Agá de hipopótamo."
+ },
+ {
+  "id": "op_3t3i",
+  "texto": "Í"
+ },
+ {
+  "id": "op_1e4pw5z",
+  "texto": "I de igreja."
+ },
+ {
+  "id": "op_1iiwiby",
+  "texto": "Letra Í. Í de igreja."
+ },
+ {
+  "id": "op_3t3j",
+  "texto": "Jóta"
+ },
+ {
+  "id": "op_9uzx0w",
+  "texto": "J de jacaré."
+ },
+ {
+  "id": "op_1wvwtgw",
+  "texto": "Letra Jóta. Jóta de jacaré."
+ },
+ {
+  "id": "op_3t3k",
+  "texto": "Cá"
+ },
+ {
+  "id": "op_v82k1n",
+  "texto": "K de kiwi."
+ },
+ {
+  "id": "op_1e3teda",
+  "texto": "Letra Cá. Cá de kiwi."
+ },
+ {
+  "id": "op_3t3l",
+  "texto": "Éle"
+ },
+ {
+  "id": "op_wd4myz",
+  "texto": "L de leão."
+ },
+ {
+  "id": "op_3pkujd",
+  "texto": "Letra Éle. Éle de leão."
+ },
+ {
+  "id": "op_3t3m",
+  "texto": "Ême"
+ },
+ {
+  "id": "op_xi4db5",
+  "texto": "M de maçã."
+ },
+ {
+  "id": "op_reyfpu",
+  "texto": "Letra Ême. Ême de maçã."
+ },
+ {
+  "id": "tr_f02_intro",
+  "texto": "Coloque os vagões na ordem do alfabeto."
+ },
+ {
+  "id": "tr_f02_dica",
+  "texto": "Cante o abc baixinho: qual letra vem primeiro?"
+ },
+ {
+  "id": "op_1eb7zqd",
+  "texto": "O abc do trem"
+ },
+ {
+  "id": "op_1oj08j",
+  "texto": "Ponha as letras na ordem do alfabeto: A, B, C..."
+ },
+ {
+  "id": "op_lp1f0k",
+  "texto": "Toque na letra ou arraste até a fila do trem."
+ },
+ {
+  "id": "op_1kpydev",
+  "texto": "Cante o comecinho do abc e ache a letra que vem agora."
+ },
+ {
+  "id": "op_spp7sb",
+  "texto": "A que vem agora está piscando. Toque nela."
+ },
+ {
+  "id": "op_syrms2",
+  "texto": "Era esta! Vamos juntos: eu ponho e você continua."
+ },
+ {
+  "id": "op_1gzfko5",
+  "texto": "O trem ficou em ordem: A, B, C, D, E!"
+ },
+ {
+  "id": "tr_f04_intro",
+  "texto": "Ache a figura que começa com a letra."
+ },
+ {
+  "id": "tr_f04_dica",
+  "texto": "Diga o nome de cada figura e escute o primeiro som."
+ },
+ {
+  "id": "op_1mer2t7",
+  "texto": "Qual figura começa com a letra B?"
+ },
+ {
+  "id": "op_ykeiw3",
+  "texto": "bola"
+ },
+ {
+  "id": "op_yki1zk",
+  "texto": "gato"
+ },
+ {
+  "id": "op_ykramw",
+  "texto": "sapo"
+ },
+ {
+  "id": "op_377k1d",
+  "texto": "uva"
+ },
+ {
+  "id": "op_12kx4ds",
+  "texto": "Diga o nome de cada figura e escute como ela começa."
+ },
+ {
+  "id": "op_19rqxqf",
+  "texto": "B faz o som /b/, como no comecinho de bola."
+ },
+ {
+  "id": "op_13lnfnk",
+  "texto": "É a bola. Ela está acesa: toque nela para seguir."
+ },
+ {
+  "id": "op_1mer2xs",
+  "texto": "Qual figura começa com a letra G?"
+ },
+ {
+  "id": "op_ykozjt",
+  "texto": "pato"
+ },
+ {
+  "id": "op_377f09",
+  "texto": "ovo"
+ },
+ {
+  "id": "op_1k7e9il",
+  "texto": "Fale o nome de cada uma e escute o primeiro pedacinho."
+ },
+ {
+  "id": "op_u3ttbg",
+  "texto": "G começa com o mesmo som de gato: /g/... gato."
+ },
+ {
+  "id": "op_1j4zzld",
+  "texto": "É o gato. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_1mer38s",
+  "texto": "Qual figura começa com a letra S?"
+ },
+ {
+  "id": "op_ykfqe5",
+  "texto": "dado"
+ },
+ {
+  "id": "op_yktlhc",
+  "texto": "vaca"
+ },
+ {
+  "id": "op_ykqj0b",
+  "texto": "rato"
+ },
+ {
+  "id": "op_wt9eb3",
+  "texto": "Diga cada nome devagar e ouça o comecinho."
+ },
+ {
+  "id": "op_8sh47y",
+  "texto": "S faz o som /s/, como a cobra: ssssapo."
+ },
+ {
+  "id": "op_1t445bt",
+  "texto": "É o sapo. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_dnvsvf",
+  "texto": "A letra do começo"
+ },
+ {
+  "id": "op_f7uw0m",
+  "texto": "Você já acha a figura pela letra do começo!"
+ },
+ {
+  "id": "tr_f05_intro",
+  "texto": "Ligue cada figura à letra com que ela começa."
+ },
+ {
+  "id": "tr_f05_dica",
+  "texto": "Toque na figura para ouvir. Qual é o primeiro som dela?"
+ },
+ {
+  "id": "op_w36rs0",
+  "texto": "Começa com P"
+ },
+ {
+  "id": "op_w36rs5",
+  "texto": "Começa com U"
+ },
+ {
+  "id": "op_w36rro",
+  "texto": "Começa com D"
+ },
+ {
+  "id": "op_w36rs6",
+  "texto": "Começa com V"
+ },
+ {
+  "id": "op_r0f0rt",
+  "texto": "Diga o nome da figura e escute a primeira letra."
+ },
+ {
+  "id": "op_265tnz",
+  "texto": "Pato começa com P, uva com U, dado com D, vaca com V. Siga a linha tracejada."
+ },
+ {
+  "id": "op_g4eads",
+  "texto": "A resposta certa está acesa, no fim da linha. Toque nela."
+ },
+ {
+  "id": "op_que7e2",
+  "texto": "Ligue cada figura à sua letra inicial."
+ },
+ {
+  "id": "op_tlwyg4",
+  "texto": "Você ligou cada figura à letra do começo!"
+ },
+ {
+  "id": "tr_f06_intro",
+  "texto": "Ache a letra e a figura que combinam."
+ },
+ {
+  "id": "tr_f06_dica",
+  "texto": "Vire duas cartas: uma tem a letra, a outra a figura. Combinaram? É par!"
+ },
+ {
+  "id": "op_vgdhge",
+  "texto": "letra á"
+ },
+ {
+  "id": "op_1uy64ki",
+  "texto": "abelha"
+ },
+ {
+  "id": "op_17ks5ca",
+  "texto": "letra cê"
+ },
+ {
+  "id": "op_ykez19",
+  "texto": "casa"
+ },
+ {
+  "id": "op_3t3o",
+  "texto": "Ó"
+ },
+ {
+  "id": "op_vgdhgw",
+  "texto": "letra ó"
+ },
+ {
+  "id": "op_3t3p",
+  "texto": "Pê"
+ },
+ {
+  "id": "op_17ks5o7",
+  "texto": "letra pê"
+ },
+ {
+  "id": "tr_f07_intro",
+  "texto": "Coloque estes vagões na ordem do alfabeto."
+ },
+ {
+  "id": "tr_f07_dica",
+  "texto": "Depois do E vem o F. Continue cantando o abc."
+ },
+ {
+  "id": "op_1pmseii",
+  "texto": "mais vagões"
+ },
+ {
+  "id": "op_ikgxgo",
+  "texto": "Continue o alfabeto: F, G, H..."
+ },
+ {
+  "id": "op_dr9kbu",
+  "texto": "Cante do F em diante e ache a letra que vem agora."
+ },
+ {
+  "id": "op_15xgjka",
+  "texto": "A próxima letra está piscando. Toque nela."
+ },
+ {
+  "id": "op_1o35fey",
+  "texto": "Era esta! Vamos juntos: eu ponho e você segue."
+ },
+ {
+  "id": "op_1wnmmpj",
+  "texto": "Ficou em ordem: F, G, H, I, J!"
+ },
+ {
+  "id": "tr_f08_intro",
+  "texto": "Olhe a figura e escolha a letra do começo."
+ },
+ {
+  "id": "tr_f08_dica",
+  "texto": "Diga o nome da figura bem devagar e escute a primeira letra."
+ },
+ {
+  "id": "op_1diqg4q",
+  "texto": "Com que letra começa casa?"
+ },
+ {
+  "id": "op_3t3s",
+  "texto": "Ésse"
+ },
+ {
+  "id": "op_1ik8kvj",
+  "texto": "Diga: ca-sa. Que som vem primeiro?"
+ },
+ {
+  "id": "op_9onfhj",
+  "texto": "É o som /k/, que a letra C faz aqui."
+ },
+ {
+  "id": "op_p2z3vt",
+  "texto": "É o C. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_7l0xrj",
+  "texto": "Com que letra começa navio?"
+ },
+ {
+  "id": "op_3t3n",
+  "texto": "Ene"
+ },
+ {
+  "id": "op_3t3v",
+  "texto": "Vê"
+ },
+ {
+  "id": "op_2kue1g",
+  "texto": "Diga: na-vi-o. Escute o comecinho."
+ },
+ {
+  "id": "op_uw0lsk",
+  "texto": "É o som /n/, do nariz: nnn... navio."
+ },
+ {
+  "id": "op_1718s0k",
+  "texto": "É o N. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_ff13dy",
+  "texto": "Com que letra começa zebra?"
+ },
+ {
+  "id": "op_3t3z",
+  "texto": "Zê"
+ },
+ {
+  "id": "op_3t3r",
+  "texto": "Érre"
+ },
+ {
+  "id": "op_8kw2tr",
+  "texto": "Diga: ze-bra. Ouça a primeira letra."
+ },
+ {
+  "id": "op_1ycvc05",
+  "texto": "É o som /z/, da abelhinha: zzz... zebra."
+ },
+ {
+  "id": "op_nvh468",
+  "texto": "É o Z. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_calumv",
+  "texto": "A letra inicial"
+ },
+ {
+  "id": "op_6zeu84",
+  "texto": "Você acha a letra do começo de cada palavra!"
+ },
+ {
+  "id": "tr_f10_intro",
+  "texto": "Toque em cada letra, de N até Z, e ouça o nome dela."
+ },
+ {
+  "id": "tr_f10_dica",
+  "texto": "Toque em cada letra para ouvir o nome dela e a figura."
+ },
+ {
+  "id": "op_6p4ief",
+  "texto": "N de navio."
+ },
+ {
+  "id": "op_158rw8f",
+  "texto": "Letra Ene. Ene de navio."
+ },
+ {
+  "id": "op_1xyo9fj",
+  "texto": "O de ovo."
+ },
+ {
+  "id": "op_sdcboc",
+  "texto": "Letra Ó. Ó de ovo."
+ },
+ {
+  "id": "op_10x9ijk",
+  "texto": "P de pato."
+ },
+ {
+  "id": "op_1ypzfxm",
+  "texto": "Letra Pê. Pê de pato."
+ },
+ {
+  "id": "op_3t3q",
+  "texto": "Quê"
+ },
+ {
+  "id": "op_1ic9lmi",
+  "texto": "Q de queijo."
+ },
+ {
+  "id": "op_1epiki7",
+  "texto": "Letra Quê. Quê de queijo."
+ },
+ {
+  "id": "op_137esf8",
+  "texto": "R de rato."
+ },
+ {
+  "id": "op_119l4nw",
+  "texto": "Letra Érre. Érre de rato."
+ },
+ {
+  "id": "op_14chc02",
+  "texto": "S de sapo."
+ },
+ {
+  "id": "op_1gm6599",
+  "texto": "Letra Ésse. Ésse de sapo."
+ },
+ {
+  "id": "op_3t3t",
+  "texto": "Tê"
+ },
+ {
+  "id": "op_15hwt1k",
+  "texto": "T de trem."
+ },
+ {
+  "id": "op_18vv2dy",
+  "texto": "Letra Tê. Tê de trem."
+ },
+ {
+  "id": "op_3t3u",
+  "texto": "Ú"
+ },
+ {
+  "id": "op_1esqwcd",
+  "texto": "U de uva."
+ },
+ {
+  "id": "op_1tkj3gi",
+  "texto": "Letra Ú. Ú de uva."
+ },
+ {
+  "id": "op_17roxjh",
+  "texto": "V de vaca."
+ },
+ {
+  "id": "op_1vgtdul",
+  "texto": "Letra Vê. Vê de vaca."
+ },
+ {
+  "id": "op_3t3w",
+  "texto": "Dáblio"
+ },
+ {
+  "id": "op_11yqf0o",
+  "texto": "W de waffle."
+ },
+ {
+  "id": "op_smm1cd",
+  "texto": "Letra Dáblio. Dáblio de waffle."
+ },
+ {
+  "id": "op_3t3x",
+  "texto": "Xis"
+ },
+ {
+  "id": "op_le6csw",
+  "texto": "X de xícara."
+ },
+ {
+  "id": "op_xcits6",
+  "texto": "Letra Xis. Xis de xícara."
+ },
+ {
+  "id": "op_3t3y",
+  "texto": "Ípsilon"
+ },
+ {
+  "id": "op_1b785et",
+  "texto": "Y de yoyo."
+ },
+ {
+  "id": "op_10odgye",
+  "texto": "Letra Ípsilon. Ípsilon de yoyo."
+ },
+ {
+  "id": "op_wduzl6",
+  "texto": "Z de zebra."
+ },
+ {
+  "id": "op_nyx266",
+  "texto": "Letra Zê. Zê de zebra."
+ },
+ {
+  "id": "tr_f12_intro",
+  "texto": "Bata 1 vez para cada sílaba e depois toque em Pronto."
+ },
+ {
+  "id": "tr_f12_dica",
+  "texto": "Ponha a mão no queixo: ele desce a cada sílaba da palavra."
+ },
+ {
+  "id": "op_3ho46",
+  "texto": "bo"
+ },
+ {
+  "id": "op_3hocy",
+  "texto": "la"
+ },
+ {
+  "id": "op_1g6g899",
+  "texto": "bo... la"
+ },
+ {
+  "id": "op_dnf0iu",
+  "texto": "Diga bola bem devagar e bata uma vez para cada pedaço."
+ },
+ {
+  "id": "op_11a4es6",
+  "texto": "Escute o ritmo: eu bato junto com você. Conte comigo."
+ },
+ {
+  "id": "op_117sgak",
+  "texto": "São 2 pedaços: bo... la. As batidas já estão aí: toque em Pronto."
+ },
+ {
+  "id": "op_3ho4p",
+  "texto": "ca"
+ },
+ {
+  "id": "op_3hojd",
+  "texto": "sa"
+ },
+ {
+  "id": "op_vt02rr",
+  "texto": "ca... sa"
+ },
+ {
+  "id": "op_epj5qh",
+  "texto": "Ponha a mão no queixo e diga casa. O queixo desce a cada pedaço."
+ },
+ {
+  "id": "op_1vs5zpo",
+  "texto": "Escute o ritmo da palavra e conte as batidas."
+ },
+ {
+  "id": "op_1rtlrna",
+  "texto": "São 2 pedaços: ca... sa. As batidas já estão aí: toque em Pronto."
+ },
+ {
+  "id": "op_3hoh0",
+  "texto": "po"
+ },
+ {
+  "id": "op_f6tlmq",
+  "texto": "sa... po"
+ },
+ {
+  "id": "op_1vwiac7",
+  "texto": "Diga sapo devagar e bata palma a cada pedaço."
+ },
+ {
+  "id": "op_le2g4k",
+  "texto": "Conte comigo: são dois pulinhos da boca."
+ },
+ {
+  "id": "op_1o26coh",
+  "texto": "São 2 pedaços: sa... po. As batidas já estão aí: toque em Pronto."
+ },
+ {
+  "id": "tr_f12b_intro",
+  "texto": "Ache a figura que começa com a letra."
+ },
+ {
+  "id": "tr_f12b_dica",
+  "texto": "Diga o nome de cada figura e escute o primeiro som."
+ },
+ {
+  "id": "op_1mer33a",
+  "texto": "Qual figura começa com a letra M?"
+ },
+ {
+  "id": "op_ykmrdp",
+  "texto": "maçã"
+ },
+ {
+  "id": "op_dt2rr0",
+  "texto": "M faz o som /m/, como no começo de maçã."
+ },
+ {
+  "id": "op_6wlmpm",
+  "texto": "É a maçã. Ela está acesa: toque nela para seguir."
+ },
+ {
+  "id": "op_1mer3bj",
+  "texto": "Qual figura começa com a letra V?"
+ },
+ {
+  "id": "op_e4ifi0",
+  "texto": "Fale cada nome e ouça o comecinho."
+ },
+ {
+  "id": "op_1wqz36r",
+  "texto": "V faz o som /v/, como em vaca."
+ },
+ {
+  "id": "op_4qw7el",
+  "texto": "É a vaca. Ela está acesa: toque nela para seguir."
+ },
+ {
+  "id": "op_1mer32d",
+  "texto": "Qual figura começa com a letra L?"
+ },
+ {
+  "id": "op_ykm2tk",
+  "texto": "leão"
+ },
+ {
+  "id": "op_lw3dhw",
+  "texto": "Diga cada nome devagar e ouça o começo."
+ },
+ {
+  "id": "op_g96y53",
+  "texto": "L faz o som /l/, como em leão."
+ },
+ {
+  "id": "op_u5xvl5",
+  "texto": "É o leão. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_1631mmj",
+  "texto": "Você acha a figura pela letra do começo!"
+ },
+ {
+  "id": "tr_f13_intro",
+  "texto": "Monte a palavra: qual pedaço vem primeiro?"
+ },
+ {
+  "id": "tr_f13_dica",
+  "texto": "Diga a palavra devagar: qual pedaço a boca fala primeiro?"
+ },
+ {
+  "id": "op_3hogm",
+  "texto": "pa"
+ },
+ {
+  "id": "op_3hoko",
+  "texto": "to"
+ },
+ {
+  "id": "op_3hodv",
+  "texto": "ma"
+ },
+ {
+  "id": "op_3hodc",
+  "texto": "lo"
+ },
+ {
+  "id": "op_vmftsz",
+  "texto": "pa... to"
+ },
+ {
+  "id": "op_mpa7ep",
+  "texto": "Diga a palavra devagar: que pedaço a boca fala primeiro?"
+ },
+ {
+  "id": "op_15gkwsp",
+  "texto": "A palavra começa com o som pa. Esse pedaço está pulsando aí embaixo."
+ },
+ {
+  "id": "op_rl46d3",
+  "texto": "É o pa. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_3ho5m",
+  "texto": "da"
+ },
+ {
+  "id": "op_3ho60",
+  "texto": "do"
+ },
+ {
+  "id": "op_3hoke",
+  "texto": "te"
+ },
+ {
+  "id": "op_qbsnpj",
+  "texto": "da... do"
+ },
+ {
+  "id": "op_1ut93iw",
+  "texto": "Fale a palavra bem devagar e escute o começo."
+ },
+ {
+  "id": "op_yu9bmm",
+  "texto": "O primeiro pedaço é da. Ele está pulsando."
+ },
+ {
+  "id": "op_klgje3",
+  "texto": "É o da. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_3hom4",
+  "texto": "va"
+ },
+ {
+  "id": "op_3ho7g",
+  "texto": "fa"
+ },
+ {
+  "id": "op_1xsbf6y",
+  "texto": "va... ca"
+ },
+ {
+  "id": "op_vqscv8",
+  "texto": "Ponha a mão no queixo e diga va-ca. Qual vem primeiro?"
+ },
+ {
+  "id": "op_112e80x",
+  "texto": "O começo é va. Ele está pulsando aí."
+ },
+ {
+  "id": "op_1uli0u5",
+  "texto": "É o va. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "tr_f14_intro",
+  "texto": "Ache a figura que começa com a sílaba."
+ },
+ {
+  "id": "tr_f14_dica",
+  "texto": "Diga cada palavra e escute o primeiro pedaço dela."
+ },
+ {
+  "id": "op_1vt21x",
+  "texto": "Qual figura começa com a sílaba sa?"
+ },
+ {
+  "id": "op_t3r6us",
+  "texto": "Diga cada nome e escute o primeiro pedaço."
+ },
+ {
+  "id": "op_1calr6x",
+  "texto": "sa-po começa com sa, o mesmo pedaço da pergunta."
+ },
+ {
+  "id": "op_1vsolx",
+  "texto": "Qual figura começa com a sílaba ca?"
+ },
+ {
+  "id": "op_3uby2h",
+  "texto": "Escute o comecinho de cada palavra."
+ },
+ {
+  "id": "op_1lr8nud",
+  "texto": "ca-sa começa com ca. Cuidado: va-ca tem o ca no fim!"
+ },
+ {
+  "id": "op_i9e0hm",
+  "texto": "É a casa. Ela está acesa: toque nela para seguir."
+ },
+ {
+  "id": "op_1tvson7",
+  "texto": "A sílaba do começo"
+ },
+ {
+  "id": "op_qv69hx",
+  "texto": "Você acha figuras pela sílaba do começo!"
+ },
+ {
+  "id": "tr_f15_intro",
+  "texto": "Falta a primeira letra. Descubra qual é."
+ },
+ {
+  "id": "tr_f15_dica",
+  "texto": "Diga a palavra da figura e escute como ela começa."
+ },
+ {
+  "id": "op_v4g72b",
+  "texto": "Olhe a figura e diga o nome dela: sapo. Que letra vem antes de apo?"
+ },
+ {
+  "id": "op_1958x1k",
+  "texto": "É o som /s/, da cobrinha: ssssapo."
+ },
+ {
+  "id": "op_15kdnss",
+  "texto": "É o S: S de sapo. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "op_1h6dnke",
+  "texto": "Diga o nome da figura: bola. Qual é a primeira letra?"
+ },
+ {
+  "id": "op_9u3ieq",
+  "texto": "É o som /b/: bola."
+ },
+ {
+  "id": "op_1ebo005",
+  "texto": "É o B: B de bola. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "op_dlnoc4",
+  "texto": "Olhe a figura e diga: dado. Que letra começa?"
+ },
+ {
+  "id": "op_3h6q9a",
+  "texto": "É o som /d/: dado."
+ },
+ {
+  "id": "op_8f8s5f",
+  "texto": "É o D: D de dado. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "tr_aquecimento_intro",
+  "texto": "Aquecimento! Vamos lembrar o alfabeto."
+ },
+ {
+  "id": "tr_aquecimento_dica",
+  "texto": "Cante o abc baixinho para ajudar a lembrar."
+ },
+ {
+  "id": "op_eluzv5",
+  "texto": "Qual letra vem depois do C?"
+ },
+ {
+  "id": "op_llftwd",
+  "texto": "Cante: A, B, C... e escute qual vem em seguida."
+ },
+ {
+  "id": "op_4gbn7s",
+  "texto": "Depois do C vem o D."
+ },
+ {
+  "id": "op_1n01tvu",
+  "texto": "É o D. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_diyc3k",
+  "texto": "Qual destas é uma vogal?"
+ },
+ {
+  "id": "op_81h120",
+  "texto": "As vogais são A, E, I, O, U."
+ },
+ {
+  "id": "op_1a9smab",
+  "texto": "Procure entre elas: A, E, I, O, U."
+ },
+ {
+  "id": "op_lw0hwr",
+  "texto": "É o E. Ele está aceso: toque nele para seguir."
+ },
+ {
+  "id": "op_1h80zrp",
+  "texto": "Qual letra vem antes do P?"
+ },
+ {
+  "id": "op_jw4jac",
+  "texto": "Cante até o P e pare no que vem logo antes."
+ },
+ {
+  "id": "op_1x5vj7k",
+  "texto": "Essa é a letra O, que está acesa. Toque nela para seguir."
+ },
+ {
+  "id": "op_4l9vja",
+  "texto": "lembrando O alfabeto"
+ },
+ {
+  "id": "op_yb2tv5",
+  "texto": "Sua memória do alfabeto está afiada!"
+ },
+ {
+  "id": "tr_f17_intro",
+  "texto": "Palavras maiores: bata 1 vez para cada sílaba e toque em Pronto."
+ },
+ {
+  "id": "tr_f17_dica",
+  "texto": "Diga bem devagar e conte quantas sílabas a boca fala."
+ },
+ {
+  "id": "op_4fox1e",
+  "texto": "navio"
+ },
+ {
+  "id": "op_3hoes",
+  "texto": "na"
+ },
+ {
+  "id": "op_3homc",
+  "texto": "vi"
+ },
+ {
+  "id": "op_1ci1x5i",
+  "texto": "na... vi... o"
+ },
+ {
+  "id": "op_6hglw6",
+  "texto": "Diga navio devagar e bata a cada pedaço."
+ },
+ {
+  "id": "op_173rw8f",
+  "texto": "Escute com atenção: são mais de dois pulinhos."
+ },
+ {
+  "id": "op_1ihzi21",
+  "texto": "São 3 pedaços: na... vi... o. Toque em Pronto."
+ },
+ {
+  "id": "op_1q04r3",
+  "texto": "jacaré"
+ },
+ {
+  "id": "op_3hob4",
+  "texto": "ja"
+ },
+ {
+  "id": "op_3hom8",
+  "texto": "ré"
+ },
+ {
+  "id": "op_qjuqcf",
+  "texto": "Ponha a mão no queixo e diga ja-ca-ré."
+ },
+ {
+  "id": "op_jcfo92",
+  "texto": "Conte as vezes que o queixo desce."
+ },
+ {
+  "id": "op_q42ckj",
+  "texto": "São 3 pedaços. Diga comigo: jacaré. Toque em Pronto."
+ },
+ {
+  "id": "tr_f18_intro",
+  "texto": "Junte os pedaços na ordem certa e forme a palavra."
+ },
+ {
+  "id": "tr_f18_dica",
+  "texto": "Diga a palavra devagar: qual pedaço vem primeiro e qual vem depois?"
+ },
+ {
+  "id": "op_3ho8d",
+  "texto": "ga"
+ },
+ {
+  "id": "op_9w6g1m",
+  "texto": "ga... to"
+ },
+ {
+  "id": "op_el50y9",
+  "texto": "Diga ga-to. Qual pedaço vem primeiro?"
+ },
+ {
+  "id": "op_vizols",
+  "texto": "Começa com ga; depois vem to."
+ },
+ {
+  "id": "op_811xgd",
+  "texto": "A ordem é ga, depois to. O pedaço certo está aceso: toque nele."
+ },
+ {
+  "id": "op_3hoig",
+  "texto": "ra"
+ },
+ {
+  "id": "op_ko10f9",
+  "texto": "ra... to"
+ },
+ {
+  "id": "op_1d1e65y",
+  "texto": "Diga ra-to devagar. Qual vem no começo?"
+ },
+ {
+  "id": "op_otae3k",
+  "texto": "Primeiro ra, depois to."
+ },
+ {
+  "id": "op_a0b3u0",
+  "texto": "A ordem é ra, depois to. O pedaço certo está aceso: toque nele."
+ },
+ {
+  "id": "op_18lvm57",
+  "texto": "U... va"
+ },
+ {
+  "id": "op_1eu7y85",
+  "texto": "Diga U-va. Qual pedaço abre a palavra?"
+ },
+ {
+  "id": "op_tox5ef",
+  "texto": "Começa só com U; depois vem va."
+ },
+ {
+  "id": "op_16qwrlq",
+  "texto": "A ordem é U, depois va. O pedaço certo está aceso: toque nele."
+ },
+ {
+  "id": "tr_f19_intro",
+  "texto": "Agora falta a última letra. Descubra qual é."
+ },
+ {
+  "id": "tr_f19_dica",
+  "texto": "Diga a palavra e segure o final dela na boca."
+ },
+ {
+  "id": "op_1yculg",
+  "texto": "Diga bola e escute como ela termina."
+ },
+ {
+  "id": "op_1h176w1",
+  "texto": "Termina com o som /a/: bol... A."
+ },
+ {
+  "id": "op_8yqpc6",
+  "texto": "É o A: bol-A. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "op_1u8087g",
+  "texto": "Diga sapo e segure o finalzinho."
+ },
+ {
+  "id": "op_7grdqc",
+  "texto": "Termina com o som /o/: sap... O."
+ },
+ {
+  "id": "op_1bk0zbx",
+  "texto": "É a letra O: sap-O. Ela está acesa — toque nela para seguir."
+ },
+ {
+  "id": "op_hp8zaz",
+  "texto": "Diga vaca e escute a última letra."
+ },
+ {
+  "id": "op_fnynxa",
+  "texto": "Termina com o som /a/: vac... A."
+ },
+ {
+  "id": "op_1i4bipv",
+  "texto": "É o A: vac-A. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "tr_f20_intro",
+  "texto": "Ouça as pistas e descubra qual palavra sou eu."
+ },
+ {
+  "id": "tr_f20_dica",
+  "texto": "Cada pista conta uma parte. Junte todas antes de responder."
+ },
+ {
+  "id": "op_6zv76n",
+  "texto": "Eu começo com a sílaba ga."
+ },
+ {
+  "id": "op_eadpqk",
+  "texto": "Eu tenho dois pedaços: ga... to."
+ },
+ {
+  "id": "op_37rwo4",
+  "texto": "Eu mio e gosto de dormir no sol."
+ },
+ {
+  "id": "op_6zvh9n",
+  "texto": "Eu começo com a sílaba sa."
+ },
+ {
+  "id": "op_1iy1guf",
+  "texto": "Eu termino com o som po."
+ },
+ {
+  "id": "op_121pmw3",
+  "texto": "Eu pulo e vivo perto da água."
+ },
+ {
+  "id": "tr_f20c_intro",
+  "texto": "Falta a primeira letra. Descubra qual é."
+ },
+ {
+  "id": "tr_f20c_dica",
+  "texto": "Diga a palavra da figura e escute como ela começa."
+ },
+ {
+  "id": "op_ses9bf",
+  "texto": "Olhe a figura e diga: gato. Que letra vem antes de ato?"
+ },
+ {
+  "id": "op_tguebo",
+  "texto": "É o som /g/: gato."
+ },
+ {
+  "id": "op_1d72g4c",
+  "texto": "É o G: G de gato. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "op_vsy3sb",
+  "texto": "Diga o nome da figura: vaca. Qual é a primeira letra?"
+ },
+ {
+  "id": "op_hcucub",
+  "texto": "É o som /v/: vaca."
+ },
+ {
+  "id": "op_1v6m18q",
+  "texto": "É o V: V de vaca. Ele está aceso — toque nele para seguir."
+ },
+ {
+  "id": "tr_f21_intro",
+  "texto": "Forme a palavra da figura juntando os pedaços."
+ },
+ {
+  "id": "tr_f21_dica",
+  "texto": "Olhe a figura, diga o nome e monte pedaço por pedaço."
+ },
+ {
+  "id": "op_19zdupd",
+  "texto": "Diga ca-sa. Qual pedaço abre a palavra?"
+ },
+ {
+  "id": "op_1qc4p5u",
+  "texto": "Primeiro ca, depois sa."
+ },
+ {
+  "id": "op_21st4a",
+  "texto": "A ordem é ca, depois sa. O pedaço certo está aceso: toque nele."
+ },
+ {
+  "id": "op_8grjj8",
+  "texto": "Diga pa-to devagar. Qual vem primeiro?"
+ },
+ {
+  "id": "op_1qypxge",
+  "texto": "Primeiro pa, depois to."
+ },
+ {
+  "id": "op_1pb2kh2",
+  "texto": "A ordem é pa, depois to. O pedaço certo está aceso: toque nele."
+ },
+ {
+  "id": "op_17ve52w",
+  "texto": "Diga da-do. Escute os dois pedaços."
+ },
+ {
+  "id": "op_7quk8y",
+  "texto": "Primeiro da, depois do."
+ },
+ {
+  "id": "op_13hry8a",
+  "texto": "A ordem é da, depois do. O pedaço certo está aceso: toque nele."
+ },
+ {
+  "id": "tr_f21b_intro",
+  "texto": "Ouça as pistas e descubra qual palavra sou eu."
+ },
+ {
+  "id": "tr_f21b_dica",
+  "texto": "Cada pista conta uma parte. Junte todas antes de responder."
+ },
+ {
+  "id": "op_6zveqw",
+  "texto": "Eu começo com a sílaba pa."
+ },
+ {
+  "id": "op_l1us2d",
+  "texto": "Eu tenho dois pedaços: pa... to."
+ },
+ {
+  "id": "op_1o8shnj",
+  "texto": "Eu faço quá-quá e nado na lagoa."
+ },
+ {
+  "id": "op_6zvjse",
+  "texto": "Eu começo com a sílaba va."
+ },
+ {
+  "id": "op_1iy15kc",
+  "texto": "Eu termino com o som ca."
+ },
+ {
+  "id": "op_1fmd6uu",
+  "texto": "Eu faço muuu e dou leite."
+ },
+ {
+  "id": "tr_f22_intro",
+  "texto": "Olhe a figura e escreva o nome dela, letra por letra."
+ },
+ {
+  "id": "tr_f22_dica",
+  "texto": "Diga a palavra devagar e ache cada letra no teclado."
+ },
+ {
+  "id": "op_1lx4qrx",
+  "texto": "Ela é redonda e rola quando você chuta."
+ },
+ {
+  "id": "op_mm873b",
+  "texto": "Diga devagar: bo-la."
+ },
+ {
+  "id": "op_z17c7f",
+  "texto": "É o lugar onde a gente mora e dorme."
+ },
+ {
+  "id": "op_mznb5t",
+  "texto": "Diga devagar: ca-sa."
+ },
+ {
+  "id": "3t3a",
+  "texto": "Á"
+ },
+ {
+  "id": "3t3l",
+  "texto": "Éle"
+ },
+ {
+  "id": "3t3o",
+  "texto": "Ó"
+ },
+ {
+  "id": "3t3b",
+  "texto": "Bê"
+ },
+ {
+  "id": "3t3c",
+  "texto": "Cê"
+ },
+ {
+  "id": "3t3s",
+  "texto": "Ésse"
+ },
+ {
+  "id": "op_1akevwq",
+  "texto": "Escreva o nome da figura, letra por letra."
+ },
+ {
+  "id": "op_1ugt8vc",
+  "texto": "Você escreveu as palavras!"
+ },
+ {
+  "id": "tr_f24_intro",
+  "texto": "Ache as palavras escondidas no quadro."
+ },
+ {
+  "id": "tr_f24_dica",
+  "texto": "As palavras estão deitadas (→) e em pé (↓). Ache uma de cada vez."
+ },
+ {
+  "id": "op_ru1gbn",
+  "texto": "caça-palavras do trem"
+ },
+ {
+  "id": "tr_f24b_intro",
+  "texto": "Ache a letra e a figura que combinam."
+ },
+ {
+  "id": "tr_f24b_dica",
+  "texto": "Vire duas cartas: a letra e a figura que começa com ela."
+ },
+ {
+  "id": "op_hfmv2x",
+  "texto": "letra ême"
+ },
+ {
+  "id": "op_hfjrcl",
+  "texto": "letra ene"
+ },
+ {
+  "id": "op_731er3",
+  "texto": "letra érre"
+ },
+ {
+  "id": "op_17ks5xd",
+  "texto": "letra zê"
+ },
+ {
+  "id": "op_4o8k49",
+  "texto": "zebra"
+ },
+ {
+  "id": "tr_f25_intro",
+  "texto": "Olhe a figura e escolha a palavra certa."
+ },
+ {
+  "id": "tr_f25_dica",
+  "texto": "Leia cada palavra devagar e compare com a figura."
+ },
+ {
+  "id": "op_110cz4d",
+  "texto": "Qual é o nome desta figura?"
+ },
+ {
+  "id": "op_1qjjz9f",
+  "texto": "Comece pela primeira letra da figura: pato."
+ },
+ {
+  "id": "op_1op0xze",
+  "texto": "Cuidado com gato e rato: mudam só a primeira letra!"
+ },
+ {
+  "id": "op_17ihg7l",
+  "texto": "É pato, com P no começo. Toque para seguir."
+ },
+ {
+  "id": "op_377ezv",
+  "texto": "ova"
+ },
+ {
+  "id": "op_cwxtgv",
+  "texto": "Diga o nome da figura: uva."
+ },
+ {
+  "id": "op_ymv9q3",
+  "texto": "Começa com U e termina com A: U-va."
+ },
+ {
+  "id": "op_1ukm3iv",
+  "texto": "É uva. Toque para seguir."
+ },
+ {
+  "id": "op_ykraqa",
+  "texto": "sapé"
+ },
+ {
+  "id": "op_ykraa2",
+  "texto": "sabo"
+ },
+ {
+  "id": "op_ykrme0",
+  "texto": "sopa"
+ },
+ {
+  "id": "op_xcg5zw",
+  "texto": "Diga devagar: sa-po."
+ },
+ {
+  "id": "op_msmrzz",
+  "texto": "Começa com sa e termina com po: sa-po."
+ },
+ {
+  "id": "op_w1mgym",
+  "texto": "É sapo. Toque para seguir."
+ },
+ {
+  "id": "op_t2ussk",
+  "texto": "leia E escolha"
+ },
+ {
+  "id": "op_x455wg",
+  "texto": "Você já lê o nome das figuras!"
+ },
+ {
+  "id": "tr_f26_intro",
+  "texto": "Mais palavras para escrever: olhe a figura e digite."
+ },
+ {
+  "id": "tr_f26_dica",
+  "texto": "Diga a palavra em pedaços e ache cada letra."
+ },
+ {
+  "id": "op_b6vfa1",
+  "texto": "Faz muuu e dá o leite que a gente bebe."
+ },
+ {
+  "id": "op_zac9wk",
+  "texto": "Diga devagar: va-ca."
+ },
+ {
+  "id": "op_2tgylf",
+  "texto": "Bichinho pequeno de rabo comprido, que rói."
+ },
+ {
+  "id": "op_wp5gan",
+  "texto": "Diga devagar: ra-to."
+ },
+ {
+  "id": "3t3v",
+  "texto": "Vê"
+ },
+ {
+  "id": "3t3r",
+  "texto": "Érre"
+ },
+ {
+  "id": "3t3t",
+  "texto": "Tê"
+ },
+ {
+  "id": "op_rd74da",
+  "texto": "Você escreveu mais palavras!"
+ },
+ {
+  "id": "tr_f28_intro",
+  "texto": "Ligue cada palavra à letra com que ela começa."
+ },
+ {
+  "id": "tr_f28_dica",
+  "texto": "Leia a palavra e escute o primeiro som dela."
+ },
+ {
+  "id": "op_vgdhcw",
+  "texto": "Letra C"
+ },
+ {
+  "id": "op_vgdhd8",
+  "texto": "Letra O"
+ },
+ {
+  "id": "op_yksgd9",
+  "texto": "trem"
+ },
+ {
+  "id": "op_vgdhdd",
+  "texto": "Letra T"
+ },
+ {
+  "id": "op_vgdhdj",
+  "texto": "Letra Z"
+ },
+ {
+  "id": "op_102hn3q",
+  "texto": "Leia a palavra e escute a primeira letra."
+ },
+ {
+  "id": "op_1q8anjq",
+  "texto": "Casa começa com C, ovo com O, trem com T, zebra com Z. Siga a linha."
+ },
+ {
+  "id": "op_j8szpv",
+  "texto": "Ligue cada palavra à sua letra inicial."
+ },
+ {
+  "id": "op_1410ena",
+  "texto": "Você ligou todas as palavras à letra do começo!"
+ },
+ {
+  "id": "tr_f28b_intro",
+  "texto": "Olhe a figura e escreva o nome dela, letra por letra."
+ },
+ {
+  "id": "tr_f28b_dica",
+  "texto": "Diga a palavra devagar e ache cada letra no teclado."
+ },
+ {
+  "id": "op_yytn8o",
+  "texto": "Bichinho que faz miau e gosta de dormir."
+ },
+ {
+  "id": "op_pkuklw",
+  "texto": "Diga devagar: ga-to."
+ },
+ {
+  "id": "op_imwv4s",
+  "texto": "Verdinho, pula e vive perto da água."
+ },
+ {
+  "id": "3t3g",
+  "texto": "Gê"
+ },
+ {
+  "id": "3t3p",
+  "texto": "Pê"
+ },
+ {
+  "id": "tr_f29_intro",
+  "texto": "Mais uma memória: ache a letra e a figura que combinam."
+ },
+ {
+  "id": "tr_f29_dica",
+  "texto": "Vire duas cartas: a letra e a figura que começa com ela."
+ },
+ {
+  "id": "op_731fm9",
+  "texto": "letra ésse"
+ },
+ {
+  "id": "op_17ks5fy",
+  "texto": "letra gê"
+ },
+ {
+  "id": "op_17ks5tp",
+  "texto": "letra vê"
+ },
+ {
+  "id": "op_vgdhde",
+  "texto": "letra u"
+ },
+ {
+  "id": "tr_f06c_intro",
+  "texto": "Pinte a letra do jeito que você quiser."
+ },
+ {
+  "id": "tr_f06c_dica",
+  "texto": "Escolha uma cor e toque dentro do desenho para pintar."
+ },
+ {
+  "id": "op_1nl0bi7",
+  "texto": "pinte A letra A"
+ },
+ {
+  "id": "op_1ru5dnl",
+  "texto": "a letra A da abelha"
+ },
+ {
+  "id": "op_7p8gdp",
+  "texto": "a letra á, da abelha"
+ },
+ {
+  "id": "tr_f30_intro",
+  "texto": "Monte o trenzinho do alfabeto."
+ },
+ {
+  "id": "tr_f30_dica",
+  "texto": "Comece pelos cantos e olhe as cores que combinam."
+ },
+ {
+  "id": "tr_f18b_intro",
+  "texto": "Pinte o trenzinho do alfabeto com as suas cores."
+ },
+ {
+  "id": "tr_f18b_dica",
+  "texto": "Escolha uma cor e toque dentro de cada parte do trem."
+ },
+ {
+  "id": "op_1nb53l8",
+  "texto": "pinte O trem"
+ },
+ {
+  "id": "op_1oc8el9",
+  "texto": "o trem do alfabeto"
+ },
+ {
+  "id": "tr_f31_intro",
+  "texto": "O trem ficou pronto! Toque nas letras e ouça o que você aprendeu."
+ },
+ {
+  "id": "tr_f31_dica",
+  "texto": "Toque em cada vagão e ouça o resumo."
+ },
+ {
+  "id": "op_r58eyf",
+  "texto": "Letra Á, de abelha. Você já sabe!"
+ },
+ {
+  "id": "op_iokzxf",
+  "texto": "Letra Bê, de bola. Você já sabe!"
+ },
+ {
+  "id": "op_9gbgji",
+  "texto": "Letra Cê, de casa. Você já sabe!"
+ },
+ {
+  "id": "op_51s7j3",
+  "texto": "Letra Dê, de dado. Você já sabe!"
+ },
+ {
+  "id": "op_v8g9gm",
+  "texto": "Letra É, de élefante. Você já sabe!"
+ },
+ {
+  "id": "op_v9x9a8",
+  "texto": "Letra Éfe, de flor. Você já sabe!"
+ },
+ {
+  "id": "op_1q3auz9",
+  "texto": "Letra Gê, de gato. Você já sabe!"
+ },
+ {
+  "id": "op_1o7o4g6",
+  "texto": "Letra Agá, de hipopótamo. Você já sabe!"
+ },
+ {
+  "id": "op_urfkew",
+  "texto": "Letra Í, de igreja. Você já sabe!"
+ },
+ {
+  "id": "op_e8mwad",
+  "texto": "Letra Jóta, de jacaré. Você já sabe!"
+ },
+ {
+  "id": "tr_f29b_intro",
+  "texto": "Pinte o Coru, o maquinista do trem."
+ },
+ {
+  "id": "tr_f29b_dica",
+  "texto": "Escolha as cores e toque dentro do desenho do Coru."
+ },
+ {
+  "id": "op_1nary0d",
+  "texto": "pinte O coru"
+ },
+ {
+  "id": "op_bjem3t",
+  "texto": "o maquinista Coru"
+ },
+ {
+  "id": "op_1e3fptx",
+  "texto": "Diga a palavra da figura e bata uma vez para cada pedaço."
+ },
+ {
+  "id": "op_1ih8zjc",
+  "texto": "Você montou letra por letra."
+ },
+ {
+  "id": "op_l1fi9q",
+  "texto": "Você colocou tudo em ordem."
+ },
+ {
+  "id": "op_k4o16y",
+  "texto": "Monte o quebra-cabeça: cada peça no seu lugar."
+ },
+ {
+  "id": "op_u45fpu",
+  "texto": "Você montou a figura inteira."
+ },
+ {
+  "id": "op_yqzdtt",
+  "texto": "Descubra quem está falando. Cada pista nova conta mais."
+ },
+ {
+  "id": "tr_fim",
+  "texto": "Você arrumou o trem inteiro e formou um montão de palavras! Piiii! Agora olhe à sua volta: quantas palavras você consegue ler nas placas da rua? Amanhã tem mais estação para descobrir!"
+ },
+ {
+  "id": "op_10lu8zj",
+  "texto": "Ponha cada pedaço na vaga certa."
+ }
+]
